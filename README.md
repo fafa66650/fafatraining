@@ -1,28 +1,67 @@
 
-# FAFA TRAINING – Web App Fitness
+# 🏋️ Générateur de Programme Sportif Personnalisé
 
-FAFA TRAINING est une application web progressive (PWA) qui permet de générer des programmes de sport personnalisés selon :
-- Objectif : perte de poids, prise de muscle, entretien
-- Zone à travailler : haut, bas, full body, abdos
-- Matériel disponible (corde, haltères, roue abdo…)
-- Type d'entraînement : HIIT, cardio, muscu, etc.
-- Sexe, âge, morphologie
-- Nombre de séances et durée
+Bienvenue dans l'application de création de programmes d'entraînement 100% personnalisés, adaptée à tous les profils, objectifs et matériel.
 
-## ✅ Fonctionnalités
-- Génération de programme complet (images, séries, repos)
-- Calcul automatique de l'IMC avec interprétation
-- Export PDF du programme
-- Statistiques personnelles sauvegardées
-- Mode hors ligne
-- Icône FAFA installable sur mobile (PWA)
+![Screenshot](screenshot.png)
 
-## 🚀 Déploiement GitHub Pages
-1. Poussez ce code dans un dépôt GitHub
-2. Dans les paramètres du repo → Pages → Source → `main` → `/ (root)`
-3. Attendez 1 minute, votre app est en ligne 🎉
+---
 
-Accessible en mobile avec installation possible : logo FAFA, fonctionnement offline, responsive.
+## 🚀 Fonctionnalités
+- Formulaire dynamique avec prise en compte de :
+  - Âge, sport pratiqué, pathologies
+  - Objectif d'entraînement (perte de poids, renforcement, cardio, etc.)
+  - Nombre de séances/semaine
+  - Matériel disponible
+- Génération automatique de programmes avec exercices adaptés
+- Responsive (mobile-friendly)
+- Immersif, design fun et moderne
+- Cases à cocher interactives pour suivre ta progression
+- Sauvegarde locale (reste même si tu fermes l'onglet)
 
-## 🔒 Sécurité
-Tous les calculs se font côté client. Aucune donnée personnelle n'est transmise.
+---
+
+## 🌐 Mise en ligne avec GitHub Pages
+
+1. Crée un dépôt GitHub (public ou privé)
+2. Upload les fichiers suivants :
+   - `index.html`
+   - `style.css`
+   - `script.js`
+   - `logo.png`
+3. Va dans **Settings > Pages**
+4. Sélectionne :
+   - Branche : `main`
+   - Dossier : `/ (root)`
+5. Clique sur **Save**
+
+L'application sera accessible à l'adresse suivante :
+```
+https://ton-utilisateur.github.io/nom-du-depot
+```
+
+---
+
+## ✅ Exemple d'utilisation
+> Je suis une femme de 45 ans, avec un objectif de renforcement musculaire, je fais de la marche nordique, j'ai des élastiques et je peux faire 3 séances par semaine.
+
+Le programme proposera des exercices adaptés sans impact, axés sur les fessiers, abdos, gainage et équilibre.
+
+---
+
+## 👍 Améliorations futures
+- Export PDF des programmes
+- Mode "coach IA"
+- Intégration audio (timer / guidance vocale)
+- Comptabilisation du volume total par groupe musculaire
+
+---
+
+## 🌟 Créé avec amour par [Ton Nom ou Pseudo]
+**Fait pour que chaque sportif ait son coach dans la poche !**
+
+---
+
+## 🔗 Liens utiles
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
+- [Open Source Badges](https://shields.io/)
