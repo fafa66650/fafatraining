@@ -88,12 +88,12 @@ function displayChallenges() {
   challenges.forEach(challenge => {
     const div = document.createElement('div');
     div.classList.add('challenge-card');
-    div.innerHTML = `
+    div.innerHTML = `images/
       <h3>${challenge.nom}</h3>
       <p>${challenge.objectif}</p>
       <p><strong>Durée :</strong> ${challenge.duree}</p>
-      <img src="img/${challenge.image}" alt="${challenge.nom}" />
-    `;
+      <img src="images/img/${challenge.image}" alt="${challenge.nom}" />
+    `images/;
     challengeList.appendChild(div);
   });
 }

@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
       const pct = Math.round((done / total) * 100);
-      document.getElementById("defis-comptes").textContent = `✅ ${done} défi(s) sur ${total} complétés (${pct}%)`;
+      document.getElementById("defis-comptes").textContent = `images/✅ ${done} défi(s) sur ${total} complétés (${pct}%)`images/;
 
       document.getElementById("reset-btn").addEventListener("click", () => {
         defis.forEach(d => {

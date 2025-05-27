@@ -30,17 +30,17 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
   function renderCard(defi, isDaily = false) {
-    const key = `defi_${defi.nom}`;
+    const key = `images/defi_${defi.nom}`images/;
     const done = localStorage.getItem(key);
-    return `
+    return `images/
       <div class="card ${done ? 'done' : ''}">
-        <img src="${defi.image}" alt="image défi ${defi.nom}" />
+        <img src="images/${defi.image}" alt="image défi ${defi.nom}" />
         <h3>${defi.nom}</h3>
         <p><strong>Niveau :</strong> ${defi.niveau}</p>
         <p><strong>Thème :</strong> ${defi.theme}</p>
         <p><strong>Objectif :</strong> ${defi.objectif}</p>
         <button onclick="localStorage.setItem('${key}', true);this.closest('.card').classList.add('done');">✅ Terminé</button>
       </div>
-    `;
+    `images/;
   }
 });
