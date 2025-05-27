@@ -1,0 +1,15 @@
+{
+  "name": "FAFA Training",
+  "short_name": "FAFA",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon-pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

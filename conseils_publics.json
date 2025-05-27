@@ -1,0 +1,42 @@
+{
+  "enfant": {
+    "titre": "Conseils pour les enfants",
+    "conseils": [
+      "Pratique ludique et sans charge.",
+      "Hydratation toutes les 15 minutes.",
+      "Favoriser le jeu et le plaisir du mouvement.",
+      "Éviter les efforts prolongés ou intenses.",
+      "Surveiller la posture et la respiration."
+    ]
+  },
+  "senior": {
+    "titre": "Conseils pour les seniors",
+    "conseils": [
+      "Échauffement doux et progressif.",
+      "Privilégier les mouvements lents et contrôlés.",
+      "Exercices de posture, équilibre et respiration.",
+      "Ne jamais forcer ni bloquer les articulations.",
+      "Étirements en fin de séance, assis ou allongé."
+    ]
+  },
+  "debutant": {
+    "titre": "Conseils pour les débutants",
+    "conseils": [
+      "Commencer doucement et écouter son corps.",
+      "Respecter les phases d'échauffement et de récupération.",
+      "Faire les exercices sans chercher la performance.",
+      "Respirer régulièrement : j’inspire en préparant, j’expire en poussant.",
+      "Ne pas hésiter à faire des pauses."
+    ]
+  },
+  "confirme": {
+    "titre": "Conseils pour les confirmés",
+    "conseils": [
+      "Augmenter progressivement l’intensité.",
+      "Respecter un jour de repos toutes les 3-4 séances.",
+      "Travailler la technique avant la vitesse.",
+      "Faire un retour au calme systématique.",
+      "Hydratation + alimentation équilibrée."
+    ]
+  }
+}

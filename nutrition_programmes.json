@@ -1,0 +1,56 @@
+{
+  "perte_poids": {
+    "objectif": "Perte de poids",
+    "type": "Semaine",
+    "jours": {
+      "jour1": {
+        "petit_dejeuner": "Smoothie aux fruits rouges + flocons d’avoine + graines de chia",
+        "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
+        "diner": "Soupe de lentilles + pain complet + salade verte",
+        "collations": "Pomme + poignée d’amandes"
+      },
+      "jour2": {
+        "petit_dejeuner": "Fromage blanc 0% + banane + noix",
+        "dejeuner": "Omelette aux épinards + patate douce",
+        "diner": "Poisson blanc + brocolis + riz basmati",
+        "collations": "Carottes crues + houmous"
+      }
+    }
+  },
+  "prise_masse": {
+    "objectif": "Prise de masse musculaire",
+    "type": "Semaine",
+    "jours": {
+      "jour1": {
+        "petit_dejeuner": "Omelette 3 œufs + pain complet + avocat + smoothie protéiné",
+        "dejeuner": "Steak haché + pâtes complètes + courgettes",
+        "diner": "Poulet curry coco + riz jasmin + légumes",
+        "collations": "Yaourt grec + banane + purée d’amande"
+      },
+      "jour2": {
+        "petit_dejeuner": "Porridge flocons d’avoine + lait d’amande + miel + fruits",
+        "dejeuner": "Saumon + quinoa + légumes poêlés",
+        "diner": "Tajine végétarien + semoule complète",
+        "collations": "Oeufs durs + pain aux céréales"
+      }
+    }
+  },
+  "sport_sante": {
+    "objectif": "Tonification et équilibre alimentaire",
+    "type": "Semaine",
+    "jours": {
+      "jour1": {
+        "petit_dejeuner": "Thé vert + tartines de pain complet + purée de noisette",
+        "dejeuner": "Tofu grillé + boulgour + légumes rôtis",
+        "diner": "Soupe de légumes maison + omelette",
+        "collations": "Fruits frais + yaourt nature"
+      },
+      "jour2": {
+        "petit_dejeuner": "Smoothie banane-épinards + muesli",
+        "dejeuner": "Salade composée (lentilles, feta, légumes) + œuf dur",
+        "diner": "Cabillaud vapeur + haricots verts + purée de carottes",
+        "collations": "Poire + quelques noix"
+      }
+    }
+  }
+}

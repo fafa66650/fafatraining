@@ -1,0 +1,42 @@
+{
+  "general": {
+    "titre": "Conseils nutritionnels généraux",
+    "conseils": [
+      "Boire au moins 1,5L à 2L d’eau par jour.",
+      "Privilégier les aliments bruts et non transformés.",
+      "Consommer 5 portions de fruits et légumes par jour.",
+      "Limiter les produits sucrés, salés et ultra-transformés.",
+      "Respecter des horaires de repas réguliers."
+    ]
+  },
+  "perte_poids": {
+    "titre": "Conseils pour la perte de poids",
+    "conseils": [
+      "Créer un léger déficit calorique sans privation.",
+      "Augmenter la consommation de fibres et de protéines.",
+      "Éviter les grignotages entre les repas.",
+      "Boire un grand verre d'eau avant chaque repas.",
+      "Manger lentement pour favoriser la satiété."
+    ]
+  },
+  "prise_masse": {
+    "titre": "Conseils pour la prise de masse",
+    "conseils": [
+      "Augmenter les apports caloriques avec des aliments de qualité.",
+      "Fractionner les repas (3 repas + 2 collations).",
+      "Consommer des protéines à chaque repas.",
+      "Ne pas négliger les glucides complexes (pâtes, riz, etc.).",
+      "S’assurer d’un bon sommeil pour la récupération."
+    ]
+  },
+  "sport_sante": {
+    "titre": "Conseils pour le bien-être et la tonification",
+    "conseils": [
+      "Varier les sources de protéines : animales et végétales.",
+      "Manger à sa faim sans excès.",
+      "Limiter la consommation d’alcool.",
+      "S’hydrater tout au long de la journée.",
+      "Préparer ses repas pour garder le contrôle."
+    ]
+  }
+}

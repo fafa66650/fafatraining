@@ -1,0 +1,5002 @@
+[
+  {
+    "nom": "Exercice 1",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 1 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_1.png"
+  },
+  {
+    "nom": "Exercice 2",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 2 : mouvement ciblé renforcement avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_2.png"
+  },
+  {
+    "nom": "Exercice 3",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 3 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_3.png"
+  },
+  {
+    "nom": "Exercice 4",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 4 : mouvement ciblé mobilité avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_4.png"
+  },
+  {
+    "nom": "Exercice 5",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 5 : mouvement ciblé souplesse avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_5.png"
+  },
+  {
+    "nom": "Exercice 6",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 6 : mouvement ciblé renforcement avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_6.png"
+  },
+  {
+    "nom": "Exercice 7",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 7 : mouvement ciblé respiration avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_7.png"
+  },
+  {
+    "nom": "Exercice 8",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 8 : mouvement ciblé cardio avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_8.png"
+  },
+  {
+    "nom": "Exercice 9",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 9 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_9.png"
+  },
+  {
+    "nom": "Exercice 10",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 10 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_10.png"
+  },
+  {
+    "nom": "Exercice 11",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 11 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_11.png"
+  },
+  {
+    "nom": "Exercice 12",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 12 : mouvement ciblé plyométrie avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_12.png"
+  },
+  {
+    "nom": "Exercice 13",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 13 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_13.png"
+  },
+  {
+    "nom": "Exercice 14",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 14 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_14.png"
+  },
+  {
+    "nom": "Exercice 15",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 15 : mouvement ciblé renforcement avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_15.png"
+  },
+  {
+    "nom": "Exercice 16",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 16 : mouvement ciblé équilibre avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_16.png"
+  },
+  {
+    "nom": "Exercice 17",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 17 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_17.png"
+  },
+  {
+    "nom": "Exercice 18",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 18 : mouvement ciblé cardio avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_18.png"
+  },
+  {
+    "nom": "Exercice 19",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 19 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_19.png"
+  },
+  {
+    "nom": "Exercice 20",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 20 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_20.png"
+  },
+  {
+    "nom": "Exercice 21",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 21 : mouvement ciblé plyométrie avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_21.png"
+  },
+  {
+    "nom": "Exercice 22",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 22 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_22.png"
+  },
+  {
+    "nom": "Exercice 23",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 23 : mouvement ciblé cardio avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_23.png"
+  },
+  {
+    "nom": "Exercice 24",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 24 : mouvement ciblé mobilité avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_24.png"
+  },
+  {
+    "nom": "Exercice 25",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 25 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_25.png"
+  },
+  {
+    "nom": "Exercice 26",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 26 : mouvement ciblé cardio avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_26.png"
+  },
+  {
+    "nom": "Exercice 27",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 27 : mouvement ciblé respiration avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_27.png"
+  },
+  {
+    "nom": "Exercice 28",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 28 : mouvement ciblé renforcement avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_28.png"
+  },
+  {
+    "nom": "Exercice 29",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 29 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_29.png"
+  },
+  {
+    "nom": "Exercice 30",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 30 : mouvement ciblé renforcement avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_30.png"
+  },
+  {
+    "nom": "Exercice 31",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 31 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_31.png"
+  },
+  {
+    "nom": "Exercice 32",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 32 : mouvement ciblé renforcement avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_32.png"
+  },
+  {
+    "nom": "Exercice 33",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 33 : mouvement ciblé mobilité avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_33.png"
+  },
+  {
+    "nom": "Exercice 34",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 34 : mouvement ciblé mobilité avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_34.png"
+  },
+  {
+    "nom": "Exercice 35",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 35 : mouvement ciblé équilibre avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_35.png"
+  },
+  {
+    "nom": "Exercice 36",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 36 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_36.png"
+  },
+  {
+    "nom": "Exercice 37",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 37 : mouvement ciblé mobilité avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_37.png"
+  },
+  {
+    "nom": "Exercice 38",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 38 : mouvement ciblé mobilité avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_38.png"
+  },
+  {
+    "nom": "Exercice 39",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 39 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_39.png"
+  },
+  {
+    "nom": "Exercice 40",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 40 : mouvement ciblé renforcement avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_40.png"
+  },
+  {
+    "nom": "Exercice 41",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 41 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_41.png"
+  },
+  {
+    "nom": "Exercice 42",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 42 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_42.png"
+  },
+  {
+    "nom": "Exercice 43",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 43 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_43.png"
+  },
+  {
+    "nom": "Exercice 44",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 44 : mouvement ciblé souplesse avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_44.png"
+  },
+  {
+    "nom": "Exercice 45",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 45 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_45.png"
+  },
+  {
+    "nom": "Exercice 46",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 46 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_46.png"
+  },
+  {
+    "nom": "Exercice 47",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 47 : mouvement ciblé mobilité avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_47.png"
+  },
+  {
+    "nom": "Exercice 48",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 48 : mouvement ciblé respiration avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_48.png"
+  },
+  {
+    "nom": "Exercice 49",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 49 : mouvement ciblé cardio avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_49.png"
+  },
+  {
+    "nom": "Exercice 50",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 50 : mouvement ciblé plyométrie avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_50.png"
+  },
+  {
+    "nom": "Exercice 51",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 51 : mouvement ciblé souplesse avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_51.png"
+  },
+  {
+    "nom": "Exercice 52",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 52 : mouvement ciblé équilibre avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_52.png"
+  },
+  {
+    "nom": "Exercice 53",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 53 : mouvement ciblé mobilité avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_53.png"
+  },
+  {
+    "nom": "Exercice 54",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 54 : mouvement ciblé renforcement avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_54.png"
+  },
+  {
+    "nom": "Exercice 55",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 55 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_55.png"
+  },
+  {
+    "nom": "Exercice 56",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 56 : mouvement ciblé respiration avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_56.png"
+  },
+  {
+    "nom": "Exercice 57",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 57 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_57.png"
+  },
+  {
+    "nom": "Exercice 58",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 58 : mouvement ciblé mobilité avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_58.png"
+  },
+  {
+    "nom": "Exercice 59",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 59 : mouvement ciblé cardio avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_59.png"
+  },
+  {
+    "nom": "Exercice 60",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 60 : mouvement ciblé respiration avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_60.png"
+  },
+  {
+    "nom": "Exercice 61",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 61 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_61.png"
+  },
+  {
+    "nom": "Exercice 62",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 62 : mouvement ciblé cardio avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_62.png"
+  },
+  {
+    "nom": "Exercice 63",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 63 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_63.png"
+  },
+  {
+    "nom": "Exercice 64",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 64 : mouvement ciblé renforcement avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_64.png"
+  },
+  {
+    "nom": "Exercice 65",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 65 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_65.png"
+  },
+  {
+    "nom": "Exercice 66",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 66 : mouvement ciblé cardio avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_66.png"
+  },
+  {
+    "nom": "Exercice 67",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 67 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_67.png"
+  },
+  {
+    "nom": "Exercice 68",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 68 : mouvement ciblé mobilité avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_68.png"
+  },
+  {
+    "nom": "Exercice 69",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 69 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_69.png"
+  },
+  {
+    "nom": "Exercice 70",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 70 : mouvement ciblé respiration avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_70.png"
+  },
+  {
+    "nom": "Exercice 71",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 71 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_71.png"
+  },
+  {
+    "nom": "Exercice 72",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 72 : mouvement ciblé mobilité avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_72.png"
+  },
+  {
+    "nom": "Exercice 73",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 73 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_73.png"
+  },
+  {
+    "nom": "Exercice 74",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 74 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_74.png"
+  },
+  {
+    "nom": "Exercice 75",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 75 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_75.png"
+  },
+  {
+    "nom": "Exercice 76",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 76 : mouvement ciblé plyométrie avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_76.png"
+  },
+  {
+    "nom": "Exercice 77",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 77 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_77.png"
+  },
+  {
+    "nom": "Exercice 78",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 78 : mouvement ciblé cardio avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_78.png"
+  },
+  {
+    "nom": "Exercice 79",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 79 : mouvement ciblé mobilité avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_79.png"
+  },
+  {
+    "nom": "Exercice 80",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 80 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_80.png"
+  },
+  {
+    "nom": "Exercice 81",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 81 : mouvement ciblé mobilité avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_81.png"
+  },
+  {
+    "nom": "Exercice 82",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 82 : mouvement ciblé plyométrie avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_82.png"
+  },
+  {
+    "nom": "Exercice 83",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 83 : mouvement ciblé souplesse avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_83.png"
+  },
+  {
+    "nom": "Exercice 84",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 84 : mouvement ciblé équilibre avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_84.png"
+  },
+  {
+    "nom": "Exercice 85",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 85 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_85.png"
+  },
+  {
+    "nom": "Exercice 86",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 86 : mouvement ciblé renforcement avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_86.png"
+  },
+  {
+    "nom": "Exercice 87",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 87 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_87.png"
+  },
+  {
+    "nom": "Exercice 88",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 88 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_88.png"
+  },
+  {
+    "nom": "Exercice 89",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 89 : mouvement ciblé respiration avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_89.png"
+  },
+  {
+    "nom": "Exercice 90",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 90 : mouvement ciblé renforcement avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_90.png"
+  },
+  {
+    "nom": "Exercice 91",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 91 : mouvement ciblé renforcement avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_91.png"
+  },
+  {
+    "nom": "Exercice 92",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 92 : mouvement ciblé cardio avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_92.png"
+  },
+  {
+    "nom": "Exercice 93",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 93 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_93.png"
+  },
+  {
+    "nom": "Exercice 94",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 94 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_94.png"
+  },
+  {
+    "nom": "Exercice 95",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 95 : mouvement ciblé respiration avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_95.png"
+  },
+  {
+    "nom": "Exercice 96",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 96 : mouvement ciblé équilibre avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_96.png"
+  },
+  {
+    "nom": "Exercice 97",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 97 : mouvement ciblé renforcement avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_97.png"
+  },
+  {
+    "nom": "Exercice 98",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 98 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_98.png"
+  },
+  {
+    "nom": "Exercice 99",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 99 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_99.png"
+  },
+  {
+    "nom": "Exercice 100",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 100 : mouvement ciblé mobilité avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_100.png"
+  },
+  {
+    "nom": "Exercice 101",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 101 : mouvement ciblé cardio avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_101.png"
+  },
+  {
+    "nom": "Exercice 102",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 102 : mouvement ciblé respiration avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_102.png"
+  },
+  {
+    "nom": "Exercice 103",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 103 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_103.png"
+  },
+  {
+    "nom": "Exercice 104",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 104 : mouvement ciblé mobilité avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_104.png"
+  },
+  {
+    "nom": "Exercice 105",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 105 : mouvement ciblé mobilité avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_105.png"
+  },
+  {
+    "nom": "Exercice 106",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 106 : mouvement ciblé respiration avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_106.png"
+  },
+  {
+    "nom": "Exercice 107",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 107 : mouvement ciblé souplesse avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_107.png"
+  },
+  {
+    "nom": "Exercice 108",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 108 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_108.png"
+  },
+  {
+    "nom": "Exercice 109",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 109 : mouvement ciblé plyométrie avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_109.png"
+  },
+  {
+    "nom": "Exercice 110",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 110 : mouvement ciblé souplesse avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_110.png"
+  },
+  {
+    "nom": "Exercice 111",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 111 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_111.png"
+  },
+  {
+    "nom": "Exercice 112",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 112 : mouvement ciblé plyométrie avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_112.png"
+  },
+  {
+    "nom": "Exercice 113",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 113 : mouvement ciblé cardio avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_113.png"
+  },
+  {
+    "nom": "Exercice 114",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 114 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_114.png"
+  },
+  {
+    "nom": "Exercice 115",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 115 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_115.png"
+  },
+  {
+    "nom": "Exercice 116",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 116 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_116.png"
+  },
+  {
+    "nom": "Exercice 117",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 117 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_117.png"
+  },
+  {
+    "nom": "Exercice 118",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 118 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_118.png"
+  },
+  {
+    "nom": "Exercice 119",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 119 : mouvement ciblé souplesse avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_119.png"
+  },
+  {
+    "nom": "Exercice 120",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 120 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_120.png"
+  },
+  {
+    "nom": "Exercice 121",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 121 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_121.png"
+  },
+  {
+    "nom": "Exercice 122",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 122 : mouvement ciblé équilibre avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_122.png"
+  },
+  {
+    "nom": "Exercice 123",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 123 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_123.png"
+  },
+  {
+    "nom": "Exercice 124",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 124 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_124.png"
+  },
+  {
+    "nom": "Exercice 125",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 125 : mouvement ciblé cardio avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_125.png"
+  },
+  {
+    "nom": "Exercice 126",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 126 : mouvement ciblé équilibre avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_126.png"
+  },
+  {
+    "nom": "Exercice 127",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 127 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_127.png"
+  },
+  {
+    "nom": "Exercice 128",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 128 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_128.png"
+  },
+  {
+    "nom": "Exercice 129",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 129 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_129.png"
+  },
+  {
+    "nom": "Exercice 130",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 130 : mouvement ciblé mobilité avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_130.png"
+  },
+  {
+    "nom": "Exercice 131",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 131 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_131.png"
+  },
+  {
+    "nom": "Exercice 132",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 132 : mouvement ciblé mobilité avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_132.png"
+  },
+  {
+    "nom": "Exercice 133",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 133 : mouvement ciblé renforcement avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_133.png"
+  },
+  {
+    "nom": "Exercice 134",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 134 : mouvement ciblé souplesse avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_134.png"
+  },
+  {
+    "nom": "Exercice 135",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 135 : mouvement ciblé renforcement avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_135.png"
+  },
+  {
+    "nom": "Exercice 136",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 136 : mouvement ciblé cardio avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_136.png"
+  },
+  {
+    "nom": "Exercice 137",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 137 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_137.png"
+  },
+  {
+    "nom": "Exercice 138",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 138 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_138.png"
+  },
+  {
+    "nom": "Exercice 139",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 139 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_139.png"
+  },
+  {
+    "nom": "Exercice 140",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 140 : mouvement ciblé plyométrie avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_140.png"
+  },
+  {
+    "nom": "Exercice 141",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 141 : mouvement ciblé cardio avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_141.png"
+  },
+  {
+    "nom": "Exercice 142",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 142 : mouvement ciblé plyométrie avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_142.png"
+  },
+  {
+    "nom": "Exercice 143",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 143 : mouvement ciblé cardio avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_143.png"
+  },
+  {
+    "nom": "Exercice 144",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 144 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_144.png"
+  },
+  {
+    "nom": "Exercice 145",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 145 : mouvement ciblé plyométrie avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_145.png"
+  },
+  {
+    "nom": "Exercice 146",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 146 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_146.png"
+  },
+  {
+    "nom": "Exercice 147",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 147 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_147.png"
+  },
+  {
+    "nom": "Exercice 148",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 148 : mouvement ciblé souplesse avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_148.png"
+  },
+  {
+    "nom": "Exercice 149",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 149 : mouvement ciblé souplesse avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_149.png"
+  },
+  {
+    "nom": "Exercice 150",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 150 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_150.png"
+  },
+  {
+    "nom": "Exercice 151",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 151 : mouvement ciblé cardio avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_151.png"
+  },
+  {
+    "nom": "Exercice 152",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 152 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_152.png"
+  },
+  {
+    "nom": "Exercice 153",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 153 : mouvement ciblé plyométrie avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_153.png"
+  },
+  {
+    "nom": "Exercice 154",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 154 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_154.png"
+  },
+  {
+    "nom": "Exercice 155",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 155 : mouvement ciblé souplesse avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_155.png"
+  },
+  {
+    "nom": "Exercice 156",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 156 : mouvement ciblé renforcement avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_156.png"
+  },
+  {
+    "nom": "Exercice 157",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 157 : mouvement ciblé mobilité avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_157.png"
+  },
+  {
+    "nom": "Exercice 158",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 158 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_158.png"
+  },
+  {
+    "nom": "Exercice 159",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 159 : mouvement ciblé plyométrie avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_159.png"
+  },
+  {
+    "nom": "Exercice 160",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 160 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_160.png"
+  },
+  {
+    "nom": "Exercice 161",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 161 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_161.png"
+  },
+  {
+    "nom": "Exercice 162",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 162 : mouvement ciblé plyométrie avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_162.png"
+  },
+  {
+    "nom": "Exercice 163",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 163 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_163.png"
+  },
+  {
+    "nom": "Exercice 164",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 164 : mouvement ciblé respiration avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_164.png"
+  },
+  {
+    "nom": "Exercice 165",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 165 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_165.png"
+  },
+  {
+    "nom": "Exercice 166",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 166 : mouvement ciblé cardio avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_166.png"
+  },
+  {
+    "nom": "Exercice 167",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 167 : mouvement ciblé équilibre avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_167.png"
+  },
+  {
+    "nom": "Exercice 168",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 168 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_168.png"
+  },
+  {
+    "nom": "Exercice 169",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 169 : mouvement ciblé équilibre avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_169.png"
+  },
+  {
+    "nom": "Exercice 170",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 170 : mouvement ciblé plyométrie avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_170.png"
+  },
+  {
+    "nom": "Exercice 171",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 171 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_171.png"
+  },
+  {
+    "nom": "Exercice 172",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 172 : mouvement ciblé renforcement avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_172.png"
+  },
+  {
+    "nom": "Exercice 173",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 173 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_173.png"
+  },
+  {
+    "nom": "Exercice 174",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 174 : mouvement ciblé cardio avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_174.png"
+  },
+  {
+    "nom": "Exercice 175",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 175 : mouvement ciblé équilibre avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_175.png"
+  },
+  {
+    "nom": "Exercice 176",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 176 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_176.png"
+  },
+  {
+    "nom": "Exercice 177",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 177 : mouvement ciblé équilibre avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_177.png"
+  },
+  {
+    "nom": "Exercice 178",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 178 : mouvement ciblé souplesse avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_178.png"
+  },
+  {
+    "nom": "Exercice 179",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 179 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_179.png"
+  },
+  {
+    "nom": "Exercice 180",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 180 : mouvement ciblé respiration avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_180.png"
+  },
+  {
+    "nom": "Exercice 181",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 181 : mouvement ciblé renforcement avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_181.png"
+  },
+  {
+    "nom": "Exercice 182",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 182 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_182.png"
+  },
+  {
+    "nom": "Exercice 183",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 183 : mouvement ciblé renforcement avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_183.png"
+  },
+  {
+    "nom": "Exercice 184",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 184 : mouvement ciblé renforcement avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_184.png"
+  },
+  {
+    "nom": "Exercice 185",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 185 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_185.png"
+  },
+  {
+    "nom": "Exercice 186",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 186 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_186.png"
+  },
+  {
+    "nom": "Exercice 187",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 187 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_187.png"
+  },
+  {
+    "nom": "Exercice 188",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 188 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_188.png"
+  },
+  {
+    "nom": "Exercice 189",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 189 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_189.png"
+  },
+  {
+    "nom": "Exercice 190",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 190 : mouvement ciblé renforcement avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_190.png"
+  },
+  {
+    "nom": "Exercice 191",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 191 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_191.png"
+  },
+  {
+    "nom": "Exercice 192",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 192 : mouvement ciblé respiration avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_192.png"
+  },
+  {
+    "nom": "Exercice 193",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 193 : mouvement ciblé souplesse avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_193.png"
+  },
+  {
+    "nom": "Exercice 194",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 194 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_194.png"
+  },
+  {
+    "nom": "Exercice 195",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 195 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_195.png"
+  },
+  {
+    "nom": "Exercice 196",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 196 : mouvement ciblé plyométrie avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_196.png"
+  },
+  {
+    "nom": "Exercice 197",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 197 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_197.png"
+  },
+  {
+    "nom": "Exercice 198",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 198 : mouvement ciblé cardio avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_198.png"
+  },
+  {
+    "nom": "Exercice 199",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 199 : mouvement ciblé équilibre avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_199.png"
+  },
+  {
+    "nom": "Exercice 200",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 200 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_200.png"
+  },
+  {
+    "nom": "Exercice 201",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 201 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_201.png"
+  },
+  {
+    "nom": "Exercice 202",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 202 : mouvement ciblé cardio avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_202.png"
+  },
+  {
+    "nom": "Exercice 203",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 203 : mouvement ciblé cardio avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_203.png"
+  },
+  {
+    "nom": "Exercice 204",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 204 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_204.png"
+  },
+  {
+    "nom": "Exercice 205",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 205 : mouvement ciblé renforcement avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_205.png"
+  },
+  {
+    "nom": "Exercice 206",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 206 : mouvement ciblé mobilité avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_206.png"
+  },
+  {
+    "nom": "Exercice 207",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 207 : mouvement ciblé renforcement avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_207.png"
+  },
+  {
+    "nom": "Exercice 208",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 208 : mouvement ciblé équilibre avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_208.png"
+  },
+  {
+    "nom": "Exercice 209",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 209 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_209.png"
+  },
+  {
+    "nom": "Exercice 210",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 210 : mouvement ciblé mobilité avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_210.png"
+  },
+  {
+    "nom": "Exercice 211",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 211 : mouvement ciblé mobilité avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_211.png"
+  },
+  {
+    "nom": "Exercice 212",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 212 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_212.png"
+  },
+  {
+    "nom": "Exercice 213",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 213 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_213.png"
+  },
+  {
+    "nom": "Exercice 214",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 214 : mouvement ciblé équilibre avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_214.png"
+  },
+  {
+    "nom": "Exercice 215",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 215 : mouvement ciblé souplesse avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_215.png"
+  },
+  {
+    "nom": "Exercice 216",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 216 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_216.png"
+  },
+  {
+    "nom": "Exercice 217",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 217 : mouvement ciblé plyométrie avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_217.png"
+  },
+  {
+    "nom": "Exercice 218",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 218 : mouvement ciblé mobilité avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_218.png"
+  },
+  {
+    "nom": "Exercice 219",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 219 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_219.png"
+  },
+  {
+    "nom": "Exercice 220",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 220 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_220.png"
+  },
+  {
+    "nom": "Exercice 221",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 221 : mouvement ciblé renforcement avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_221.png"
+  },
+  {
+    "nom": "Exercice 222",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 222 : mouvement ciblé mobilité avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_222.png"
+  },
+  {
+    "nom": "Exercice 223",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 223 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_223.png"
+  },
+  {
+    "nom": "Exercice 224",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 224 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_224.png"
+  },
+  {
+    "nom": "Exercice 225",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 225 : mouvement ciblé cardio avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_225.png"
+  },
+  {
+    "nom": "Exercice 226",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 226 : mouvement ciblé cardio avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_226.png"
+  },
+  {
+    "nom": "Exercice 227",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 227 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_227.png"
+  },
+  {
+    "nom": "Exercice 228",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 228 : mouvement ciblé mobilité avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_228.png"
+  },
+  {
+    "nom": "Exercice 229",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 229 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_229.png"
+  },
+  {
+    "nom": "Exercice 230",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 230 : mouvement ciblé mobilité avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_230.png"
+  },
+  {
+    "nom": "Exercice 231",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 231 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_231.png"
+  },
+  {
+    "nom": "Exercice 232",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 232 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_232.png"
+  },
+  {
+    "nom": "Exercice 233",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 233 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_233.png"
+  },
+  {
+    "nom": "Exercice 234",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 234 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_234.png"
+  },
+  {
+    "nom": "Exercice 235",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 235 : mouvement ciblé équilibre avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_235.png"
+  },
+  {
+    "nom": "Exercice 236",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 236 : mouvement ciblé respiration avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_236.png"
+  },
+  {
+    "nom": "Exercice 237",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 237 : mouvement ciblé cardio avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_237.png"
+  },
+  {
+    "nom": "Exercice 238",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 238 : mouvement ciblé cardio avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_238.png"
+  },
+  {
+    "nom": "Exercice 239",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 239 : mouvement ciblé plyométrie avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_239.png"
+  },
+  {
+    "nom": "Exercice 240",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 240 : mouvement ciblé respiration avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_240.png"
+  },
+  {
+    "nom": "Exercice 241",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 241 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_241.png"
+  },
+  {
+    "nom": "Exercice 242",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 242 : mouvement ciblé mobilité avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_242.png"
+  },
+  {
+    "nom": "Exercice 243",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 243 : mouvement ciblé souplesse avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_243.png"
+  },
+  {
+    "nom": "Exercice 244",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 244 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_244.png"
+  },
+  {
+    "nom": "Exercice 245",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 245 : mouvement ciblé plyométrie avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_245.png"
+  },
+  {
+    "nom": "Exercice 246",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 246 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_246.png"
+  },
+  {
+    "nom": "Exercice 247",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 247 : mouvement ciblé plyométrie avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_247.png"
+  },
+  {
+    "nom": "Exercice 248",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 248 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_248.png"
+  },
+  {
+    "nom": "Exercice 249",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 249 : mouvement ciblé plyométrie avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_249.png"
+  },
+  {
+    "nom": "Exercice 250",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 250 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_250.png"
+  },
+  {
+    "nom": "Exercice 251",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 251 : mouvement ciblé renforcement avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_251.png"
+  },
+  {
+    "nom": "Exercice 252",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 252 : mouvement ciblé respiration avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_252.png"
+  },
+  {
+    "nom": "Exercice 253",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 253 : mouvement ciblé plyométrie avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_253.png"
+  },
+  {
+    "nom": "Exercice 254",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 254 : mouvement ciblé respiration avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_254.png"
+  },
+  {
+    "nom": "Exercice 255",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 255 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_255.png"
+  },
+  {
+    "nom": "Exercice 256",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 256 : mouvement ciblé mobilité avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_256.png"
+  },
+  {
+    "nom": "Exercice 257",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 257 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_257.png"
+  },
+  {
+    "nom": "Exercice 258",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 258 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_258.png"
+  },
+  {
+    "nom": "Exercice 259",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 259 : mouvement ciblé plyométrie avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_259.png"
+  },
+  {
+    "nom": "Exercice 260",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 260 : mouvement ciblé renforcement avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_260.png"
+  },
+  {
+    "nom": "Exercice 261",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 261 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_261.png"
+  },
+  {
+    "nom": "Exercice 262",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 262 : mouvement ciblé respiration avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_262.png"
+  },
+  {
+    "nom": "Exercice 263",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 263 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_263.png"
+  },
+  {
+    "nom": "Exercice 264",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 264 : mouvement ciblé équilibre avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_264.png"
+  },
+  {
+    "nom": "Exercice 265",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 265 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_265.png"
+  },
+  {
+    "nom": "Exercice 266",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 266 : mouvement ciblé plyométrie avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_266.png"
+  },
+  {
+    "nom": "Exercice 267",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 267 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_267.png"
+  },
+  {
+    "nom": "Exercice 268",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 268 : mouvement ciblé renforcement avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_268.png"
+  },
+  {
+    "nom": "Exercice 269",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 269 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_269.png"
+  },
+  {
+    "nom": "Exercice 270",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 270 : mouvement ciblé cardio avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_270.png"
+  },
+  {
+    "nom": "Exercice 271",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 271 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_271.png"
+  },
+  {
+    "nom": "Exercice 272",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 272 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_272.png"
+  },
+  {
+    "nom": "Exercice 273",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 273 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_273.png"
+  },
+  {
+    "nom": "Exercice 274",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 274 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_274.png"
+  },
+  {
+    "nom": "Exercice 275",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 275 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_275.png"
+  },
+  {
+    "nom": "Exercice 276",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 276 : mouvement ciblé cardio avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_276.png"
+  },
+  {
+    "nom": "Exercice 277",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 277 : mouvement ciblé renforcement avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_277.png"
+  },
+  {
+    "nom": "Exercice 278",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 278 : mouvement ciblé renforcement avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_278.png"
+  },
+  {
+    "nom": "Exercice 279",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 279 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_279.png"
+  },
+  {
+    "nom": "Exercice 280",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 280 : mouvement ciblé équilibre avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_280.png"
+  },
+  {
+    "nom": "Exercice 281",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 281 : mouvement ciblé mobilité avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_281.png"
+  },
+  {
+    "nom": "Exercice 282",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 282 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_282.png"
+  },
+  {
+    "nom": "Exercice 283",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 283 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_283.png"
+  },
+  {
+    "nom": "Exercice 284",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 284 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_284.png"
+  },
+  {
+    "nom": "Exercice 285",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 285 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_285.png"
+  },
+  {
+    "nom": "Exercice 286",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 286 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_286.png"
+  },
+  {
+    "nom": "Exercice 287",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 287 : mouvement ciblé respiration avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_287.png"
+  },
+  {
+    "nom": "Exercice 288",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 288 : mouvement ciblé respiration avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_288.png"
+  },
+  {
+    "nom": "Exercice 289",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 289 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_289.png"
+  },
+  {
+    "nom": "Exercice 290",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 290 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_290.png"
+  },
+  {
+    "nom": "Exercice 291",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 291 : mouvement ciblé cardio avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_291.png"
+  },
+  {
+    "nom": "Exercice 292",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 292 : mouvement ciblé mobilité avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_292.png"
+  },
+  {
+    "nom": "Exercice 293",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 293 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_293.png"
+  },
+  {
+    "nom": "Exercice 294",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 294 : mouvement ciblé souplesse avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_294.png"
+  },
+  {
+    "nom": "Exercice 295",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 295 : mouvement ciblé renforcement avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_295.png"
+  },
+  {
+    "nom": "Exercice 296",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 296 : mouvement ciblé cardio avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_296.png"
+  },
+  {
+    "nom": "Exercice 297",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 297 : mouvement ciblé cardio avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_297.png"
+  },
+  {
+    "nom": "Exercice 298",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 298 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_298.png"
+  },
+  {
+    "nom": "Exercice 299",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 299 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_299.png"
+  },
+  {
+    "nom": "Exercice 300",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 300 : mouvement ciblé cardio avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_300.png"
+  },
+  {
+    "nom": "Exercice 301",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 301 : mouvement ciblé équilibre avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_301.png"
+  },
+  {
+    "nom": "Exercice 302",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 302 : mouvement ciblé respiration avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_302.png"
+  },
+  {
+    "nom": "Exercice 303",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 303 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_303.png"
+  },
+  {
+    "nom": "Exercice 304",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 304 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_304.png"
+  },
+  {
+    "nom": "Exercice 305",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 305 : mouvement ciblé mobilité avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_305.png"
+  },
+  {
+    "nom": "Exercice 306",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 306 : mouvement ciblé cardio avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_306.png"
+  },
+  {
+    "nom": "Exercice 307",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 307 : mouvement ciblé équilibre avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_307.png"
+  },
+  {
+    "nom": "Exercice 308",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 308 : mouvement ciblé renforcement avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_308.png"
+  },
+  {
+    "nom": "Exercice 309",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 309 : mouvement ciblé plyométrie avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_309.png"
+  },
+  {
+    "nom": "Exercice 310",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 310 : mouvement ciblé renforcement avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_310.png"
+  },
+  {
+    "nom": "Exercice 311",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 311 : mouvement ciblé plyométrie avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_311.png"
+  },
+  {
+    "nom": "Exercice 312",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 312 : mouvement ciblé souplesse avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_312.png"
+  },
+  {
+    "nom": "Exercice 313",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 313 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_313.png"
+  },
+  {
+    "nom": "Exercice 314",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 314 : mouvement ciblé cardio avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_314.png"
+  },
+  {
+    "nom": "Exercice 315",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 315 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_315.png"
+  },
+  {
+    "nom": "Exercice 316",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 316 : mouvement ciblé renforcement avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_316.png"
+  },
+  {
+    "nom": "Exercice 317",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 317 : mouvement ciblé cardio avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_317.png"
+  },
+  {
+    "nom": "Exercice 318",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 318 : mouvement ciblé mobilité avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_318.png"
+  },
+  {
+    "nom": "Exercice 319",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 319 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_319.png"
+  },
+  {
+    "nom": "Exercice 320",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 320 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_320.png"
+  },
+  {
+    "nom": "Exercice 321",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 321 : mouvement ciblé équilibre avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_321.png"
+  },
+  {
+    "nom": "Exercice 322",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 322 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_322.png"
+  },
+  {
+    "nom": "Exercice 323",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 323 : mouvement ciblé respiration avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_323.png"
+  },
+  {
+    "nom": "Exercice 324",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 324 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_324.png"
+  },
+  {
+    "nom": "Exercice 325",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 325 : mouvement ciblé mobilité avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_325.png"
+  },
+  {
+    "nom": "Exercice 326",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 326 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_326.png"
+  },
+  {
+    "nom": "Exercice 327",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 327 : mouvement ciblé cardio avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_327.png"
+  },
+  {
+    "nom": "Exercice 328",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 328 : mouvement ciblé renforcement avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_328.png"
+  },
+  {
+    "nom": "Exercice 329",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 329 : mouvement ciblé souplesse avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_329.png"
+  },
+  {
+    "nom": "Exercice 330",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 330 : mouvement ciblé plyométrie avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_330.png"
+  },
+  {
+    "nom": "Exercice 331",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 331 : mouvement ciblé équilibre avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_331.png"
+  },
+  {
+    "nom": "Exercice 332",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 332 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_332.png"
+  },
+  {
+    "nom": "Exercice 333",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 333 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_333.png"
+  },
+  {
+    "nom": "Exercice 334",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 334 : mouvement ciblé souplesse avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_334.png"
+  },
+  {
+    "nom": "Exercice 335",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 335 : mouvement ciblé mobilité avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_335.png"
+  },
+  {
+    "nom": "Exercice 336",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 336 : mouvement ciblé équilibre avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_336.png"
+  },
+  {
+    "nom": "Exercice 337",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 337 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_337.png"
+  },
+  {
+    "nom": "Exercice 338",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 338 : mouvement ciblé cardio avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_338.png"
+  },
+  {
+    "nom": "Exercice 339",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 339 : mouvement ciblé respiration avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_339.png"
+  },
+  {
+    "nom": "Exercice 340",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 340 : mouvement ciblé renforcement avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_340.png"
+  },
+  {
+    "nom": "Exercice 341",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 341 : mouvement ciblé mobilité avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_341.png"
+  },
+  {
+    "nom": "Exercice 342",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 342 : mouvement ciblé renforcement avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_342.png"
+  },
+  {
+    "nom": "Exercice 343",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 343 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_343.png"
+  },
+  {
+    "nom": "Exercice 344",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 344 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_344.png"
+  },
+  {
+    "nom": "Exercice 345",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 345 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_345.png"
+  },
+  {
+    "nom": "Exercice 346",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 346 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_346.png"
+  },
+  {
+    "nom": "Exercice 347",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 347 : mouvement ciblé mobilité avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_347.png"
+  },
+  {
+    "nom": "Exercice 348",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 348 : mouvement ciblé mobilité avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_348.png"
+  },
+  {
+    "nom": "Exercice 349",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 349 : mouvement ciblé mobilité avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_349.png"
+  },
+  {
+    "nom": "Exercice 350",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 350 : mouvement ciblé respiration avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_350.png"
+  },
+  {
+    "nom": "Exercice 351",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 351 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_351.png"
+  },
+  {
+    "nom": "Exercice 352",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 352 : mouvement ciblé renforcement avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_352.png"
+  },
+  {
+    "nom": "Exercice 353",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 353 : mouvement ciblé cardio avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_353.png"
+  },
+  {
+    "nom": "Exercice 354",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 354 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_354.png"
+  },
+  {
+    "nom": "Exercice 355",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 355 : mouvement ciblé équilibre avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_355.png"
+  },
+  {
+    "nom": "Exercice 356",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 356 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_356.png"
+  },
+  {
+    "nom": "Exercice 357",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 357 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_357.png"
+  },
+  {
+    "nom": "Exercice 358",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 358 : mouvement ciblé plyométrie avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_358.png"
+  },
+  {
+    "nom": "Exercice 359",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 359 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_359.png"
+  },
+  {
+    "nom": "Exercice 360",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 360 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_360.png"
+  },
+  {
+    "nom": "Exercice 361",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 361 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_361.png"
+  },
+  {
+    "nom": "Exercice 362",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 362 : mouvement ciblé plyométrie avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_362.png"
+  },
+  {
+    "nom": "Exercice 363",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 363 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_363.png"
+  },
+  {
+    "nom": "Exercice 364",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 364 : mouvement ciblé plyométrie avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_364.png"
+  },
+  {
+    "nom": "Exercice 365",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 365 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_365.png"
+  },
+  {
+    "nom": "Exercice 366",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 366 : mouvement ciblé mobilité avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_366.png"
+  },
+  {
+    "nom": "Exercice 367",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 367 : mouvement ciblé souplesse avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_367.png"
+  },
+  {
+    "nom": "Exercice 368",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 368 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_368.png"
+  },
+  {
+    "nom": "Exercice 369",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 369 : mouvement ciblé cardio avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_369.png"
+  },
+  {
+    "nom": "Exercice 370",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 370 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_370.png"
+  },
+  {
+    "nom": "Exercice 371",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 371 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_371.png"
+  },
+  {
+    "nom": "Exercice 372",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 372 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_372.png"
+  },
+  {
+    "nom": "Exercice 373",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 373 : mouvement ciblé respiration avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_373.png"
+  },
+  {
+    "nom": "Exercice 374",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 374 : mouvement ciblé plyométrie avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_374.png"
+  },
+  {
+    "nom": "Exercice 375",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 375 : mouvement ciblé souplesse avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_375.png"
+  },
+  {
+    "nom": "Exercice 376",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 376 : mouvement ciblé souplesse avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_376.png"
+  },
+  {
+    "nom": "Exercice 377",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 377 : mouvement ciblé équilibre avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_377.png"
+  },
+  {
+    "nom": "Exercice 378",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 378 : mouvement ciblé souplesse avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_378.png"
+  },
+  {
+    "nom": "Exercice 379",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 379 : mouvement ciblé plyométrie avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_379.png"
+  },
+  {
+    "nom": "Exercice 380",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 380 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_380.png"
+  },
+  {
+    "nom": "Exercice 381",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 381 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_381.png"
+  },
+  {
+    "nom": "Exercice 382",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 382 : mouvement ciblé cardio avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_382.png"
+  },
+  {
+    "nom": "Exercice 383",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 383 : mouvement ciblé renforcement avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_383.png"
+  },
+  {
+    "nom": "Exercice 384",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 384 : mouvement ciblé respiration avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_384.png"
+  },
+  {
+    "nom": "Exercice 385",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 385 : mouvement ciblé respiration avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_385.png"
+  },
+  {
+    "nom": "Exercice 386",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 386 : mouvement ciblé équilibre avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_386.png"
+  },
+  {
+    "nom": "Exercice 387",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 387 : mouvement ciblé équilibre avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_387.png"
+  },
+  {
+    "nom": "Exercice 388",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 388 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_388.png"
+  },
+  {
+    "nom": "Exercice 389",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 389 : mouvement ciblé cardio avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_389.png"
+  },
+  {
+    "nom": "Exercice 390",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 390 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_390.png"
+  },
+  {
+    "nom": "Exercice 391",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 391 : mouvement ciblé respiration avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_391.png"
+  },
+  {
+    "nom": "Exercice 392",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 392 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_392.png"
+  },
+  {
+    "nom": "Exercice 393",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 393 : mouvement ciblé respiration avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_393.png"
+  },
+  {
+    "nom": "Exercice 394",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 394 : mouvement ciblé plyométrie avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_394.png"
+  },
+  {
+    "nom": "Exercice 395",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 395 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_395.png"
+  },
+  {
+    "nom": "Exercice 396",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 396 : mouvement ciblé plyométrie avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_396.png"
+  },
+  {
+    "nom": "Exercice 397",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 397 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_397.png"
+  },
+  {
+    "nom": "Exercice 398",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 398 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_398.png"
+  },
+  {
+    "nom": "Exercice 399",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 399 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_399.png"
+  },
+  {
+    "nom": "Exercice 400",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 400 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_400.png"
+  },
+  {
+    "nom": "Exercice 401",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 401 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_401.png"
+  },
+  {
+    "nom": "Exercice 402",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 402 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_402.png"
+  },
+  {
+    "nom": "Exercice 403",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 403 : mouvement ciblé renforcement avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_403.png"
+  },
+  {
+    "nom": "Exercice 404",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 404 : mouvement ciblé équilibre avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_404.png"
+  },
+  {
+    "nom": "Exercice 405",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 405 : mouvement ciblé souplesse avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_405.png"
+  },
+  {
+    "nom": "Exercice 406",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 406 : mouvement ciblé plyométrie avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_406.png"
+  },
+  {
+    "nom": "Exercice 407",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 407 : mouvement ciblé plyométrie avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_407.png"
+  },
+  {
+    "nom": "Exercice 408",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 408 : mouvement ciblé cardio avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_408.png"
+  },
+  {
+    "nom": "Exercice 409",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 409 : mouvement ciblé plyométrie avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_409.png"
+  },
+  {
+    "nom": "Exercice 410",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 410 : mouvement ciblé respiration avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_410.png"
+  },
+  {
+    "nom": "Exercice 411",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 411 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_411.png"
+  },
+  {
+    "nom": "Exercice 412",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 412 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_412.png"
+  },
+  {
+    "nom": "Exercice 413",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 413 : mouvement ciblé mobilité avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_413.png"
+  },
+  {
+    "nom": "Exercice 414",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 414 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_414.png"
+  },
+  {
+    "nom": "Exercice 415",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 415 : mouvement ciblé mobilité avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_415.png"
+  },
+  {
+    "nom": "Exercice 416",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 416 : mouvement ciblé équilibre avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_416.png"
+  },
+  {
+    "nom": "Exercice 417",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 417 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_417.png"
+  },
+  {
+    "nom": "Exercice 418",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 418 : mouvement ciblé plyométrie avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_418.png"
+  },
+  {
+    "nom": "Exercice 419",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 419 : mouvement ciblé souplesse avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_419.png"
+  },
+  {
+    "nom": "Exercice 420",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 420 : mouvement ciblé mobilité avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_420.png"
+  },
+  {
+    "nom": "Exercice 421",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 421 : mouvement ciblé mobilité avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_421.png"
+  },
+  {
+    "nom": "Exercice 422",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 422 : mouvement ciblé renforcement avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_422.png"
+  },
+  {
+    "nom": "Exercice 423",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 423 : mouvement ciblé respiration avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_423.png"
+  },
+  {
+    "nom": "Exercice 424",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 424 : mouvement ciblé souplesse avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_424.png"
+  },
+  {
+    "nom": "Exercice 425",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 425 : mouvement ciblé cardio avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_425.png"
+  },
+  {
+    "nom": "Exercice 426",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 426 : mouvement ciblé respiration avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_426.png"
+  },
+  {
+    "nom": "Exercice 427",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 427 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_427.png"
+  },
+  {
+    "nom": "Exercice 428",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 428 : mouvement ciblé plyométrie avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_428.png"
+  },
+  {
+    "nom": "Exercice 429",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 429 : mouvement ciblé souplesse avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_429.png"
+  },
+  {
+    "nom": "Exercice 430",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 430 : mouvement ciblé souplesse avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_430.png"
+  },
+  {
+    "nom": "Exercice 431",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 431 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_431.png"
+  },
+  {
+    "nom": "Exercice 432",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 432 : mouvement ciblé souplesse avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_432.png"
+  },
+  {
+    "nom": "Exercice 433",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 433 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_433.png"
+  },
+  {
+    "nom": "Exercice 434",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 434 : mouvement ciblé souplesse avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_434.png"
+  },
+  {
+    "nom": "Exercice 435",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 435 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_435.png"
+  },
+  {
+    "nom": "Exercice 436",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 436 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_436.png"
+  },
+  {
+    "nom": "Exercice 437",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 437 : mouvement ciblé renforcement avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_437.png"
+  },
+  {
+    "nom": "Exercice 438",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 438 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_438.png"
+  },
+  {
+    "nom": "Exercice 439",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 439 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_439.png"
+  },
+  {
+    "nom": "Exercice 440",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 440 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_440.png"
+  },
+  {
+    "nom": "Exercice 441",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 441 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_441.png"
+  },
+  {
+    "nom": "Exercice 442",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 442 : mouvement ciblé respiration avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_442.png"
+  },
+  {
+    "nom": "Exercice 443",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 443 : mouvement ciblé renforcement avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_443.png"
+  },
+  {
+    "nom": "Exercice 444",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 444 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_444.png"
+  },
+  {
+    "nom": "Exercice 445",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 445 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_445.png"
+  },
+  {
+    "nom": "Exercice 446",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 446 : mouvement ciblé mobilité avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_446.png"
+  },
+  {
+    "nom": "Exercice 447",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 447 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_447.png"
+  },
+  {
+    "nom": "Exercice 448",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 448 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_448.png"
+  },
+  {
+    "nom": "Exercice 449",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 449 : mouvement ciblé respiration avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_449.png"
+  },
+  {
+    "nom": "Exercice 450",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 450 : mouvement ciblé cardio avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_450.png"
+  },
+  {
+    "nom": "Exercice 451",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 451 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_451.png"
+  },
+  {
+    "nom": "Exercice 452",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 452 : mouvement ciblé renforcement avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_452.png"
+  },
+  {
+    "nom": "Exercice 453",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 453 : mouvement ciblé renforcement avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_453.png"
+  },
+  {
+    "nom": "Exercice 454",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 454 : mouvement ciblé souplesse avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_454.png"
+  },
+  {
+    "nom": "Exercice 455",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 455 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_455.png"
+  },
+  {
+    "nom": "Exercice 456",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 456 : mouvement ciblé souplesse avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_456.png"
+  },
+  {
+    "nom": "Exercice 457",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 457 : mouvement ciblé cardio avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_457.png"
+  },
+  {
+    "nom": "Exercice 458",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 458 : mouvement ciblé équilibre avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_458.png"
+  },
+  {
+    "nom": "Exercice 459",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 459 : mouvement ciblé plyométrie avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_459.png"
+  },
+  {
+    "nom": "Exercice 460",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 460 : mouvement ciblé renforcement avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_460.png"
+  },
+  {
+    "nom": "Exercice 461",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 461 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_461.png"
+  },
+  {
+    "nom": "Exercice 462",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 462 : mouvement ciblé souplesse avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_462.png"
+  },
+  {
+    "nom": "Exercice 463",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Tapis",
+    "description": "Exercice 463 : mouvement ciblé respiration avec tapis",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_463.png"
+  },
+  {
+    "nom": "Exercice 464",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 464 : mouvement ciblé mobilité avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_464.png"
+  },
+  {
+    "nom": "Exercice 465",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 465 : mouvement ciblé mobilité avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_465.png"
+  },
+  {
+    "nom": "Exercice 466",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 466 : mouvement ciblé équilibre avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_466.png"
+  },
+  {
+    "nom": "Exercice 467",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 467 : mouvement ciblé plyométrie avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_467.png"
+  },
+  {
+    "nom": "Exercice 468",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 468 : mouvement ciblé plyométrie avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_468.png"
+  },
+  {
+    "nom": "Exercice 469",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 469 : mouvement ciblé cardio avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_469.png"
+  },
+  {
+    "nom": "Exercice 470",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 470 : mouvement ciblé respiration avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_470.png"
+  },
+  {
+    "nom": "Exercice 471",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 471 : mouvement ciblé équilibre avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_471.png"
+  },
+  {
+    "nom": "Exercice 472",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 472 : mouvement ciblé cardio avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_472.png"
+  },
+  {
+    "nom": "Exercice 473",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 473 : mouvement ciblé renforcement avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_473.png"
+  },
+  {
+    "nom": "Exercice 474",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 474 : mouvement ciblé souplesse avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_474.png"
+  },
+  {
+    "nom": "Exercice 475",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 475 : mouvement ciblé équilibre avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_475.png"
+  },
+  {
+    "nom": "Exercice 476",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 476 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_476.png"
+  },
+  {
+    "nom": "Exercice 477",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 477 : mouvement ciblé renforcement avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_477.png"
+  },
+  {
+    "nom": "Exercice 478",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 478 : mouvement ciblé renforcement avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_478.png"
+  },
+  {
+    "nom": "Exercice 479",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 479 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_479.png"
+  },
+  {
+    "nom": "Exercice 480",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Anneaux",
+    "description": "Exercice 480 : mouvement ciblé cardio avec anneaux",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_480.png"
+  },
+  {
+    "nom": "Exercice 481",
+    "categorie": "Renforcement",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 481 : mouvement ciblé renforcement avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_481.png"
+  },
+  {
+    "nom": "Exercice 482",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 482 : mouvement ciblé souplesse avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_482.png"
+  },
+  {
+    "nom": "Exercice 483",
+    "categorie": "Équilibre",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 483 : mouvement ciblé équilibre avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_483.png"
+  },
+  {
+    "nom": "Exercice 484",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 484 : mouvement ciblé plyométrie avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_484.png"
+  },
+  {
+    "nom": "Exercice 485",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 485 : mouvement ciblé cardio avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_485.png"
+  },
+  {
+    "nom": "Exercice 486",
+    "categorie": "Respiration",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 486 : mouvement ciblé respiration avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_486.png"
+  },
+  {
+    "nom": "Exercice 487",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Aucun",
+    "description": "Exercice 487 : mouvement ciblé souplesse avec aucun",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_487.png"
+  },
+  {
+    "nom": "Exercice 488",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 488 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_488.png"
+  },
+  {
+    "nom": "Exercice 489",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 489 : mouvement ciblé mobilité avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_489.png"
+  },
+  {
+    "nom": "Exercice 490",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 490 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_490.png"
+  },
+  {
+    "nom": "Exercice 491",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 491 : mouvement ciblé plyométrie avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_491.png"
+  },
+  {
+    "nom": "Exercice 492",
+    "categorie": "Plyométrie",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 492 : mouvement ciblé plyométrie avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_492.png"
+  },
+  {
+    "nom": "Exercice 493",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Bâton",
+    "description": "Exercice 493 : mouvement ciblé souplesse avec bâton",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_493.png"
+  },
+  {
+    "nom": "Exercice 494",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Ballon",
+    "description": "Exercice 494 : mouvement ciblé souplesse avec ballon",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_494.png"
+  },
+  {
+    "nom": "Exercice 495",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 495 : mouvement ciblé mobilité avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_495.png"
+  },
+  {
+    "nom": "Exercice 496",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Corde",
+    "description": "Exercice 496 : mouvement ciblé mobilité avec corde",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_496.png"
+  },
+  {
+    "nom": "Exercice 497",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Haltères",
+    "description": "Exercice 497 : mouvement ciblé souplesse avec haltères",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_497.png"
+  },
+  {
+    "nom": "Exercice 498",
+    "categorie": "Cardio",
+    "niveau": "Tous niveaux",
+    "materiel": "Chaise",
+    "description": "Exercice 498 : mouvement ciblé cardio avec chaise",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_498.png"
+  },
+  {
+    "nom": "Exercice 499",
+    "categorie": "Mobilité",
+    "niveau": "Tous niveaux",
+    "materiel": "Mur",
+    "description": "Exercice 499 : mouvement ciblé mobilité avec mur",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_499.png"
+  },
+  {
+    "nom": "Exercice 500",
+    "categorie": "Souplesse",
+    "niveau": "Tous niveaux",
+    "materiel": "Élastique",
+    "description": "Exercice 500 : mouvement ciblé souplesse avec élastique",
+    "posture": "Dos droit, gainé, mouvement contrôlé",
+    "respiration": "Inspire dans la phase facile, expire dans l’effort",
+    "image": "img/exercice_500.png"
+  }
+]

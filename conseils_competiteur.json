@@ -1,0 +1,52 @@
+{
+  "musculation": {
+    "titre": "Conseils pour la musculation / CrossFit",
+    "conseils": [
+      "Respecte un cycle d'entraînement (ex. : 4 à 6 semaines).",
+      "Fais au minimum un jour OFF tous les 3 jours.",
+      "Progression max : +5% de charge par semaine.",
+      "Hydrate-toi bien avant, pendant et après la séance.",
+      "Préserve ton dos : gainage + posture technique."
+    ]
+  },
+  "course": {
+    "titre": "Conseils pour la course à pied",
+    "conseils": [
+      "Varie tes entraînements : allure, fractionné, récup.",
+      "Adapte ton équipement (chaussures, terrain).",
+      "Pense au travail de gainage et à la foulée.",
+      "Hydrate-toi toutes les 20 minutes en course longue.",
+      "Posture droite, regard loin devant."
+    ]
+  },
+  "collectifs": {
+    "titre": "Conseils pour les sports collectifs",
+    "conseils": [
+      "Travaille ton agilité : appuis, déplacements courts.",
+      "Ne néglige pas la récupération : froid, étirements.",
+      "Prévention blessure : proprioception, gainage.",
+      "Alterne effort court / récup rapide (type HIIT).",
+      "Échauffement spécifique à ton poste ou ton rôle."
+    ]
+  },
+  "souplesse": {
+    "titre": "Conseils pour la gymnastique / danse / arts martiaux",
+    "conseils": [
+      "Souffle lent et profond pour chaque mouvement.",
+      "Posture stable avant d’engager la mobilité.",
+      "Travailler l’équilibre + gainage du tronc.",
+      "Préparer les articulations (mobilisation articulaire douce).",
+      "Ne jamais forcer un étirement, rester fluide."
+    ]
+  },
+  "cyclisme": {
+    "titre": "Conseils pour le cyclisme",
+    "conseils": [
+      "Travaille ta cadence : pédalage souple à 90rpm.",
+      "Hydratation très régulière (toutes les 15-20min).",
+      "Soigne ta position : selle, dos, poignets alignés.",
+      "Ajoute des sprints courts pour varier l’effort.",
+      "Nutrition riche en glucides après la sortie."
+    ]
+  }
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "nom": "Défi 1 - Cinéma d'action",
+    "niveau": "Débutant",
+    "theme": "Cinéma d'action",
+    "objectif": "3 séries de 10 répétitions de Squats adapté au niveau débutant",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_1.png"
+  },
+  {
+    "nom": "Défi 2 - Zen",
+    "niveau": "Débutant",
+    "theme": "Zen",
+    "objectif": "3 minutes de Course adapté au niveau débutant",
+    "duree": "3 minutes",
+    "image": "img/defi_2.png"
+  },
+  {
+    "nom": "Défi 3 - Harry Potter",
+    "niveau": "Débutant",
+    "theme": "Harry Potter",
+    "objectif": "3 séries de 10 répétitions de Fentes adapté au niveau débutant",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_3.png"
+  },
+  {
+    "nom": "Défi 4 - Harry Potter",
+    "niveau": "Débutant",
+    "theme": "Harry Potter",
+    "objectif": "4 séries de 30 secondes de Pompes adapté au niveau débutant",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_4.png"
+  },
+  {
+    "nom": "Défi 5 - Gaming",
+    "niveau": "Débutant",
+    "theme": "Gaming",
+    "objectif": "3 minutes de Burpees adapté au niveau débutant",
+    "duree": "3 minutes",
+    "image": "img/defi_5.png"
+  },
+  {
+    "nom": "Défi 6 - Olympiques",
+    "niveau": "Enfant",
+    "theme": "Olympiques",
+    "objectif": "5 minutes de Boxe adapté au niveau enfant",
+    "duree": "5 minutes",
+    "image": "img/defi_6.png"
+  },
+  {
+    "nom": "Défi 7 - Cinéma d'action",
+    "niveau": "Intermédiaire",
+    "theme": "Cinéma d'action",
+    "objectif": "5 minutes de Burpees adapté au niveau intermédiaire",
+    "duree": "5 minutes",
+    "image": "img/defi_7.png"
+  },
+  {
+    "nom": "Défi 8 - Zen",
+    "niveau": "Enfant",
+    "theme": "Zen",
+    "objectif": "2 minutes de Gainage adapté au niveau enfant",
+    "duree": "2 minutes",
+    "image": "img/defi_8.png"
+  },
+  {
+    "nom": "Défi 9 - Manga",
+    "niveau": "Avancé",
+    "theme": "Manga",
+    "objectif": "3 séries de 10 répétitions de Pompes adapté au niveau avancé",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_9.png"
+  },
+  {
+    "nom": "Défi 10 - Anti-stress",
+    "niveau": "Enfant",
+    "theme": "Anti-stress",
+    "objectif": "20 répétitions de Gainage adapté au niveau enfant",
+    "duree": "20 répétitions",
+    "image": "img/defi_10.png"
+  },
+  {
+    "nom": "Défi 11 - Olympiques",
+    "niveau": "Senior",
+    "theme": "Olympiques",
+    "objectif": "2 séries de 15 répétitions de Jumping Jacks adapté au niveau senior",
+    "duree": "2 séries de 15 répétitions",
+    "image": "img/defi_11.png"
+  },
+  {
+    "nom": "Défi 12 - Noël",
+    "niveau": "Enfant",
+    "theme": "Noël",
+    "objectif": "30 secondes de Pompes adapté au niveau enfant",
+    "duree": "30 secondes",
+    "image": "img/defi_12.png"
+  },
+  {
+    "nom": "Défi 13 - Fête de la Musique",
+    "niveau": "Avancé",
+    "theme": "Fête de la Musique",
+    "objectif": "30 secondes de Étirements adapté au niveau avancé",
+    "duree": "30 secondes",
+    "image": "img/defi_13.png"
+  },
+  {
+    "nom": "Défi 14 - Astrologie Bélier",
+    "niveau": "Enfant",
+    "theme": "Astrologie Bélier",
+    "objectif": "4 séries de 30 secondes de Course adapté au niveau enfant",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_14.png"
+  },
+  {
+    "nom": "Défi 15 - Halloween",
+    "niveau": "Enfant",
+    "theme": "Halloween",
+    "objectif": "20 répétitions de Gainage adapté au niveau enfant",
+    "duree": "20 répétitions",
+    "image": "img/defi_15.png"
+  },
+  {
+    "nom": "Défi 16 - Astrologie Lion",
+    "niveau": "Senior",
+    "theme": "Astrologie Lion",
+    "objectif": "3 minutes de Course adapté au niveau senior",
+    "duree": "3 minutes",
+    "image": "img/defi_16.png"
+  },
+  {
+    "nom": "Défi 17 - Olympiques",
+    "niveau": "Intermédiaire",
+    "theme": "Olympiques",
+    "objectif": "2 minutes de Burpees adapté au niveau intermédiaire",
+    "duree": "2 minutes",
+    "image": "img/defi_17.png"
+  },
+  {
+    "nom": "Défi 18 - Astrologie Lion",
+    "niveau": "Avancé",
+    "theme": "Astrologie Lion",
+    "objectif": "4 séries de 30 secondes de Squats adapté au niveau avancé",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_18.png"
+  },
+  {
+    "nom": "Défi 19 - Super-héros",
+    "niveau": "Avancé",
+    "theme": "Super-héros",
+    "objectif": "4 séries de 30 secondes de Pompes adapté au niveau avancé",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_19.png"
+  },
+  {
+    "nom": "Défi 20 - Noël",
+    "niveau": "Senior",
+    "theme": "Noël",
+    "objectif": "4 séries de 30 secondes de Boxe adapté au niveau senior",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_20.png"
+  },
+  {
+    "nom": "Défi 21 - Détox",
+    "niveau": "Avancé",
+    "theme": "Détox",
+    "objectif": "30 répétitions de Pompes adapté au niveau avancé",
+    "duree": "30 répétitions",
+    "image": "img/defi_21.png"
+  },
+  {
+    "nom": "Défi 22 - Gaming",
+    "niveau": "Intermédiaire",
+    "theme": "Gaming",
+    "objectif": "4 séries de 30 secondes de Course adapté au niveau intermédiaire",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_22.png"
+  },
+  {
+    "nom": "Défi 23 - Nouvel An",
+    "niveau": "Enfant",
+    "theme": "Nouvel An",
+    "objectif": "30 secondes de Gainage adapté au niveau enfant",
+    "duree": "30 secondes",
+    "image": "img/defi_23.png"
+  },
+  {
+    "nom": "Défi 24 - Back to School",
+    "niveau": "Avancé",
+    "theme": "Back to School",
+    "objectif": "30 répétitions de Jumping Jacks adapté au niveau avancé",
+    "duree": "30 répétitions",
+    "image": "img/defi_24.png"
+  },
+  {
+    "nom": "Défi 25 - Challenge TikTok",
+    "niveau": "Intermédiaire",
+    "theme": "Challenge TikTok",
+    "objectif": "4 séries de 30 secondes de Jumping Jacks adapté au niveau intermédiaire",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_25.png"
+  },
+  {
+    "nom": "Défi 26 - Halloween",
+    "niveau": "Enfant",
+    "theme": "Halloween",
+    "objectif": "3 séries de 10 répétitions de Squats adapté au niveau enfant",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_26.png"
+  },
+  {
+    "nom": "Défi 27 - Olympiques",
+    "niveau": "Avancé",
+    "theme": "Olympiques",
+    "objectif": "1 minute de Gainage adapté au niveau avancé",
+    "duree": "1 minute",
+    "image": "img/defi_27.png"
+  },
+  {
+    "nom": "Défi 28 - Challenge TikTok",
+    "niveau": "Avancé",
+    "theme": "Challenge TikTok",
+    "objectif": "4 séries de 30 secondes de Gainage adapté au niveau avancé",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_28.png"
+  },
+  {
+    "nom": "Défi 29 - Zen",
+    "niveau": "Senior",
+    "theme": "Zen",
+    "objectif": "1 minute de Gainage adapté au niveau senior",
+    "duree": "1 minute",
+    "image": "img/defi_29.png"
+  },
+  {
+    "nom": "Défi 30 - Rentrée",
+    "niveau": "Senior",
+    "theme": "Rentrée",
+    "objectif": "2 minutes de Planche adapté au niveau senior",
+    "duree": "2 minutes",
+    "image": "img/defi_30.png"
+  },
+  {
+    "nom": "Défi 31 - Super-héros",
+    "niveau": "Enfant",
+    "theme": "Super-héros",
+    "objectif": "2 séries de 15 répétitions de Pompes adapté au niveau enfant",
+    "duree": "2 séries de 15 répétitions",
+    "image": "img/defi_31.png"
+  },
+  {
+    "nom": "Défi 32 - Détox",
+    "niveau": "Senior",
+    "theme": "Détox",
+    "objectif": "3 séries de 10 répétitions de Étirements adapté au niveau senior",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_32.png"
+  },
+  {
+    "nom": "Défi 33 - Gaming",
+    "niveau": "Débutant",
+    "theme": "Gaming",
+    "objectif": "2 séries de 15 répétitions de Étirements adapté au niveau débutant",
+    "duree": "2 séries de 15 répétitions",
+    "image": "img/defi_33.png"
+  },
+  {
+    "nom": "Défi 34 - Gaming",
+    "niveau": "Enfant",
+    "theme": "Gaming",
+    "objectif": "5 minutes de Burpees adapté au niveau enfant",
+    "duree": "5 minutes",
+    "image": "img/defi_34.png"
+  },
+  {
+    "nom": "Défi 35 - Back to School",
+    "niveau": "Enfant",
+    "theme": "Back to School",
+    "objectif": "3 minutes de Squats adapté au niveau enfant",
+    "duree": "3 minutes",
+    "image": "img/defi_35.png"
+  },
+  {
+    "nom": "Défi 36 - Détox",
+    "niveau": "Intermédiaire",
+    "theme": "Détox",
+    "objectif": "2 séries de 15 répétitions de Boxe adapté au niveau intermédiaire",
+    "duree": "2 séries de 15 répétitions",
+    "image": "img/defi_36.png"
+  },
+  {
+    "nom": "Défi 37 - Rentrée",
+    "niveau": "Enfant",
+    "theme": "Rentrée",
+    "objectif": "10 répétitions de Course adapté au niveau enfant",
+    "duree": "10 répétitions",
+    "image": "img/defi_37.png"
+  },
+  {
+    "nom": "Défi 38 - Manga",
+    "niveau": "Intermédiaire",
+    "theme": "Manga",
+    "objectif": "10 répétitions de Burpees adapté au niveau intermédiaire",
+    "duree": "10 répétitions",
+    "image": "img/defi_38.png"
+  },
+  {
+    "nom": "Défi 39 - Halloween",
+    "niveau": "Débutant",
+    "theme": "Halloween",
+    "objectif": "3 minutes de Planche adapté au niveau débutant",
+    "duree": "3 minutes",
+    "image": "img/defi_39.png"
+  },
+  {
+    "nom": "Défi 40 - Manga",
+    "niveau": "Enfant",
+    "theme": "Manga",
+    "objectif": "30 répétitions de Squats adapté au niveau enfant",
+    "duree": "30 répétitions",
+    "image": "img/defi_40.png"
+  },
+  {
+    "nom": "Défi 41 - Astrologie Lion",
+    "niveau": "Enfant",
+    "theme": "Astrologie Lion",
+    "objectif": "30 répétitions de Course adapté au niveau enfant",
+    "duree": "30 répétitions",
+    "image": "img/defi_41.png"
+  },
+  {
+    "nom": "Défi 42 - Nouvel An",
+    "niveau": "Intermédiaire",
+    "theme": "Nouvel An",
+    "objectif": "30 répétitions de Fentes adapté au niveau intermédiaire",
+    "duree": "30 répétitions",
+    "image": "img/defi_42.png"
+  },
+  {
+    "nom": "Défi 43 - Fête de la Musique",
+    "niveau": "Senior",
+    "theme": "Fête de la Musique",
+    "objectif": "30 répétitions de Planche adapté au niveau senior",
+    "duree": "30 répétitions",
+    "image": "img/defi_43.png"
+  },
+  {
+    "nom": "Défi 44 - Rentrée",
+    "niveau": "Intermédiaire",
+    "theme": "Rentrée",
+    "objectif": "4 séries de 30 secondes de Planche adapté au niveau intermédiaire",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_44.png"
+  },
+  {
+    "nom": "Défi 45 - Gaming",
+    "niveau": "Intermédiaire",
+    "theme": "Gaming",
+    "objectif": "2 séries de 15 répétitions de Gainage adapté au niveau intermédiaire",
+    "duree": "2 séries de 15 répétitions",
+    "image": "img/defi_45.png"
+  },
+  {
+    "nom": "Défi 46 - Manga",
+    "niveau": "Débutant",
+    "theme": "Manga",
+    "objectif": "3 séries de 10 répétitions de Fentes adapté au niveau débutant",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_46.png"
+  },
+  {
+    "nom": "Défi 47 - Rentrée",
+    "niveau": "Avancé",
+    "theme": "Rentrée",
+    "objectif": "3 séries de 10 répétitions de Fentes adapté au niveau avancé",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_47.png"
+  },
+  {
+    "nom": "Défi 48 - Été",
+    "niveau": "Débutant",
+    "theme": "Été",
+    "objectif": "5 minutes de Planche adapté au niveau débutant",
+    "duree": "5 minutes",
+    "image": "img/defi_48.png"
+  },
+  {
+    "nom": "Défi 49 - Nouvel An",
+    "niveau": "Avancé",
+    "theme": "Nouvel An",
+    "objectif": "10 répétitions de Course adapté au niveau avancé",
+    "duree": "10 répétitions",
+    "image": "img/defi_49.png"
+  },
+  {
+    "nom": "Défi 50 - Zen",
+    "niveau": "Senior",
+    "theme": "Zen",
+    "objectif": "20 répétitions de Étirements adapté au niveau senior",
+    "duree": "20 répétitions",
+    "image": "img/defi_50.png"
+  },
+  {
+    "nom": "Défi 51 - Fête de la Musique",
+    "niveau": "Débutant",
+    "theme": "Fête de la Musique",
+    "objectif": "30 répétitions de Boxe adapté au niveau débutant",
+    "duree": "30 répétitions",
+    "image": "img/defi_51.png"
+  },
+  {
+    "nom": "Défi 52 - Été",
+    "niveau": "Avancé",
+    "theme": "Été",
+    "objectif": "2 séries de 15 répétitions de Burpees adapté au niveau avancé",
+    "duree": "2 séries de 15 répétitions",
+    "image": "img/defi_52.png"
+  },
+  {
+    "nom": "Défi 53 - Gaming",
+    "niveau": "Senior",
+    "theme": "Gaming",
+    "objectif": "4 séries de 30 secondes de Burpees adapté au niveau senior",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_53.png"
+  },
+  {
+    "nom": "Défi 54 - Cinéma d'action",
+    "niveau": "Intermédiaire",
+    "theme": "Cinéma d'action",
+    "objectif": "3 minutes de Boxe adapté au niveau intermédiaire",
+    "duree": "3 minutes",
+    "image": "img/defi_54.png"
+  },
+  {
+    "nom": "Défi 55 - Films Marvel",
+    "niveau": "Avancé",
+    "theme": "Films Marvel",
+    "objectif": "5 minutes de Squats adapté au niveau avancé",
+    "duree": "5 minutes",
+    "image": "img/defi_55.png"
+  },
+  {
+    "nom": "Défi 56 - Olympiques",
+    "niveau": "Enfant",
+    "theme": "Olympiques",
+    "objectif": "30 secondes de Étirements adapté au niveau enfant",
+    "duree": "30 secondes",
+    "image": "img/defi_56.png"
+  },
+  {
+    "nom": "Défi 57 - Cinéma d'action",
+    "niveau": "Intermédiaire",
+    "theme": "Cinéma d'action",
+    "objectif": "4 séries de 30 secondes de Étirements adapté au niveau intermédiaire",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_57.png"
+  },
+  {
+    "nom": "Défi 58 - Super-héros",
+    "niveau": "Débutant",
+    "theme": "Super-héros",
+    "objectif": "30 secondes de Étirements adapté au niveau débutant",
+    "duree": "30 secondes",
+    "image": "img/defi_58.png"
+  },
+  {
+    "nom": "Défi 59 - Super-héros",
+    "niveau": "Débutant",
+    "theme": "Super-héros",
+    "objectif": "3 séries de 10 répétitions de Course adapté au niveau débutant",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_59.png"
+  },
+  {
+    "nom": "Défi 60 - Astrologie Bélier",
+    "niveau": "Intermédiaire",
+    "theme": "Astrologie Bélier",
+    "objectif": "30 secondes de Planche adapté au niveau intermédiaire",
+    "duree": "30 secondes",
+    "image": "img/defi_60.png"
+  },
+  {
+    "nom": "Défi 61 - Cinéma d'action",
+    "niveau": "Débutant",
+    "theme": "Cinéma d'action",
+    "objectif": "4 séries de 30 secondes de Jumping Jacks adapté au niveau débutant",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_61.png"
+  },
+  {
+    "nom": "Défi 62 - Challenge TikTok",
+    "niveau": "Senior",
+    "theme": "Challenge TikTok",
+    "objectif": "2 minutes de Fentes adapté au niveau senior",
+    "duree": "2 minutes",
+    "image": "img/defi_62.png"
+  },
+  {
+    "nom": "Défi 63 - Fête de la Musique",
+    "niveau": "Intermédiaire",
+    "theme": "Fête de la Musique",
+    "objectif": "2 minutes de Jumping Jacks adapté au niveau intermédiaire",
+    "duree": "2 minutes",
+    "image": "img/defi_63.png"
+  },
+  {
+    "nom": "Défi 64 - Harry Potter",
+    "niveau": "Intermédiaire",
+    "theme": "Harry Potter",
+    "objectif": "3 minutes de Jumping Jacks adapté au niveau intermédiaire",
+    "duree": "3 minutes",
+    "image": "img/defi_64.png"
+  },
+  {
+    "nom": "Défi 65 - Challenge TikTok",
+    "niveau": "Avancé",
+    "theme": "Challenge TikTok",
+    "objectif": "5 minutes de Étirements adapté au niveau avancé",
+    "duree": "5 minutes",
+    "image": "img/defi_65.png"
+  },
+  {
+    "nom": "Défi 66 - Rentrée",
+    "niveau": "Intermédiaire",
+    "theme": "Rentrée",
+    "objectif": "30 secondes de Boxe adapté au niveau intermédiaire",
+    "duree": "30 secondes",
+    "image": "img/defi_66.png"
+  },
+  {
+    "nom": "Défi 67 - Détox",
+    "niveau": "Débutant",
+    "theme": "Détox",
+    "objectif": "2 séries de 15 répétitions de Fentes adapté au niveau débutant",
+    "duree": "2 séries de 15 répétitions",
+    "image": "img/defi_67.png"
+  },
+  {
+    "nom": "Défi 68 - Manga",
+    "niveau": "Senior",
+    "theme": "Manga",
+    "objectif": "2 minutes de Squats adapté au niveau senior",
+    "duree": "2 minutes",
+    "image": "img/defi_68.png"
+  },
+  {
+    "nom": "Défi 69 - Zen",
+    "niveau": "Débutant",
+    "theme": "Zen",
+    "objectif": "30 secondes de Course adapté au niveau débutant",
+    "duree": "30 secondes",
+    "image": "img/defi_69.png"
+  },
+  {
+    "nom": "Défi 70 - Challenge TikTok",
+    "niveau": "Intermédiaire",
+    "theme": "Challenge TikTok",
+    "objectif": "4 séries de 30 secondes de Planche adapté au niveau intermédiaire",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_70.png"
+  },
+  {
+    "nom": "Défi 71 - Rentrée",
+    "niveau": "Senior",
+    "theme": "Rentrée",
+    "objectif": "30 secondes de Gainage adapté au niveau senior",
+    "duree": "30 secondes",
+    "image": "img/defi_71.png"
+  },
+  {
+    "nom": "Défi 72 - Zen",
+    "niveau": "Enfant",
+    "theme": "Zen",
+    "objectif": "3 séries de 10 répétitions de Squats adapté au niveau enfant",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_72.png"
+  },
+  {
+    "nom": "Défi 73 - Harry Potter",
+    "niveau": "Intermédiaire",
+    "theme": "Harry Potter",
+    "objectif": "2 minutes de Burpees adapté au niveau intermédiaire",
+    "duree": "2 minutes",
+    "image": "img/defi_73.png"
+  },
+  {
+    "nom": "Défi 74 - Harry Potter",
+    "niveau": "Senior",
+    "theme": "Harry Potter",
+    "objectif": "30 secondes de Squats adapté au niveau senior",
+    "duree": "30 secondes",
+    "image": "img/defi_74.png"
+  },
+  {
+    "nom": "Défi 75 - Films Marvel",
+    "niveau": "Intermédiaire",
+    "theme": "Films Marvel",
+    "objectif": "5 minutes de Étirements adapté au niveau intermédiaire",
+    "duree": "5 minutes",
+    "image": "img/defi_75.png"
+  },
+  {
+    "nom": "Défi 76 - Rentrée",
+    "niveau": "Senior",
+    "theme": "Rentrée",
+    "objectif": "10 répétitions de Fentes adapté au niveau senior",
+    "duree": "10 répétitions",
+    "image": "img/defi_76.png"
+  },
+  {
+    "nom": "Défi 77 - Zen",
+    "niveau": "Débutant",
+    "theme": "Zen",
+    "objectif": "10 répétitions de Planche adapté au niveau débutant",
+    "duree": "10 répétitions",
+    "image": "img/defi_77.png"
+  },
+  {
+    "nom": "Défi 78 - Harry Potter",
+    "niveau": "Débutant",
+    "theme": "Harry Potter",
+    "objectif": "30 répétitions de Planche adapté au niveau débutant",
+    "duree": "30 répétitions",
+    "image": "img/defi_78.png"
+  },
+  {
+    "nom": "Défi 79 - Rentrée",
+    "niveau": "Senior",
+    "theme": "Rentrée",
+    "objectif": "3 séries de 10 répétitions de Gainage adapté au niveau senior",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_79.png"
+  },
+  {
+    "nom": "Défi 80 - Cinéma d'action",
+    "niveau": "Avancé",
+    "theme": "Cinéma d'action",
+    "objectif": "10 répétitions de Burpees adapté au niveau avancé",
+    "duree": "10 répétitions",
+    "image": "img/defi_80.png"
+  },
+  {
+    "nom": "Défi 81 - Films Marvel",
+    "niveau": "Enfant",
+    "theme": "Films Marvel",
+    "objectif": "3 séries de 10 répétitions de Planche adapté au niveau enfant",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_81.png"
+  },
+  {
+    "nom": "Défi 82 - Olympiques",
+    "niveau": "Senior",
+    "theme": "Olympiques",
+    "objectif": "30 secondes de Gainage adapté au niveau senior",
+    "duree": "30 secondes",
+    "image": "img/defi_82.png"
+  },
+  {
+    "nom": "Défi 83 - Halloween",
+    "niveau": "Senior",
+    "theme": "Halloween",
+    "objectif": "5 minutes de Gainage adapté au niveau senior",
+    "duree": "5 minutes",
+    "image": "img/defi_83.png"
+  },
+  {
+    "nom": "Défi 84 - Gaming",
+    "niveau": "Enfant",
+    "theme": "Gaming",
+    "objectif": "30 répétitions de Gainage adapté au niveau enfant",
+    "duree": "30 répétitions",
+    "image": "img/defi_84.png"
+  },
+  {
+    "nom": "Défi 85 - Manga",
+    "niveau": "Avancé",
+    "theme": "Manga",
+    "objectif": "20 répétitions de Étirements adapté au niveau avancé",
+    "duree": "20 répétitions",
+    "image": "img/defi_85.png"
+  },
+  {
+    "nom": "Défi 86 - Cinéma d'action",
+    "niveau": "Avancé",
+    "theme": "Cinéma d'action",
+    "objectif": "5 minutes de Burpees adapté au niveau avancé",
+    "duree": "5 minutes",
+    "image": "img/defi_86.png"
+  },
+  {
+    "nom": "Défi 87 - Anti-stress",
+    "niveau": "Intermédiaire",
+    "theme": "Anti-stress",
+    "objectif": "30 répétitions de Étirements adapté au niveau intermédiaire",
+    "duree": "30 répétitions",
+    "image": "img/defi_87.png"
+  },
+  {
+    "nom": "Défi 88 - Manga",
+    "niveau": "Débutant",
+    "theme": "Manga",
+    "objectif": "3 séries de 10 répétitions de Burpees adapté au niveau débutant",
+    "duree": "3 séries de 10 répétitions",
+    "image": "img/defi_88.png"
+  },
+  {
+    "nom": "Défi 89 - Été",
+    "niveau": "Intermédiaire",
+    "theme": "Été",
+    "objectif": "5 minutes de Boxe adapté au niveau intermédiaire",
+    "duree": "5 minutes",
+    "image": "img/defi_89.png"
+  },
+  {
+    "nom": "Défi 90 - Nouvel An",
+    "niveau": "Intermédiaire",
+    "theme": "Nouvel An",
+    "objectif": "30 répétitions de Gainage adapté au niveau intermédiaire",
+    "duree": "30 répétitions",
+    "image": "img/defi_90.png"
+  },
+  {
+    "nom": "Défi 91 - Challenge YouTube",
+    "niveau": "Débutant",
+    "theme": "Challenge YouTube",
+    "objectif": "4 séries de 30 secondes de Pompes adapté au niveau débutant",
+    "duree": "4 séries de 30 secondes",
+    "image": "img/defi_91.png"
+  },
+  {
+    "nom": "Défi 92 - Astrologie Lion",
+    "niveau": "Enfant",
+    "theme": "Astrologie Lion",
+    "objectif": "1 minute de Pompes adapté au niveau enfant",
+    "duree": "1 minute",
+    "image": "img/defi_92.png"
+  },
+  {
+    "nom": "Défi 93 - Films Marvel",
+    "niveau": "Intermédiaire",
+    "theme": "Films Marvel",
+    "objectif": "20 répétitions de Étirements adapté au niveau intermédiaire",
+    "duree": "20 répétitions",
+    "image": "img/defi_93.png"
+  },
+  {
+    "nom": "Défi 94 - Anti-stress",
+    "niveau": "Avancé",
+    "theme": "Anti-stress",
+    "objectif": "30 répétitions de Boxe adapté au niveau avancé",
+    "duree": "30 répétitions",
+    "image": "img/defi_94.png"
+  },
+  {
+    "nom": "Défi 95 - Astrologie Bélier",
+    "niveau": "Intermédiaire",
+    "theme": "Astrologie Bélier",
+    "objectif": "3 minutes de Course adapté au niveau intermédiaire",
+    "duree": "3 minutes",
+    "image": "img/defi_95.png"
+  },
+  {
+    "nom": "Défi 96 - Été",
+    "niveau": "Senior",
+    "theme": "Été",
+    "objectif": "30 secondes de Squats adapté au niveau senior",
+    "duree": "30 secondes",
+    "image": "img/defi_96.png"
+  },
+  {
+    "nom": "Défi 97 - Astrologie Lion",
+    "niveau": "Avancé",
+    "theme": "Astrologie Lion",
+    "objectif": "30 répétitions de Burpees adapté au niveau avancé",
+    "duree": "30 répétitions",
+    "image": "img/defi_97.png"
+  },
+  {
+    "nom": "Défi 98 - Fête de la Musique",
+    "niveau": "Débutant",
+    "theme": "Fête de la Musique",
+    "objectif": "10 répétitions de Squats adapté au niveau débutant",
+    "duree": "10 répétitions",
+    "image": "img/defi_98.png"
+  },
+  {
+    "nom": "Défi 99 - Challenge YouTube",
+    "niveau": "Intermédiaire",
+    "theme": "Challenge YouTube",
+    "objectif": "2 minutes de Boxe adapté au niveau intermédiaire",
+    "duree": "2 minutes",
+    "image": "img/defi_99.png"
+  },
+  {
+    "nom": "Défi 100 - Fête de la Musique",
+    "niveau": "Avancé",
+    "theme": "Fête de la Musique",
+    "objectif": "30 répétitions de Course adapté au niveau avancé",
+    "duree": "30 répétitions",
+    "image": "img/defi_100.png"
+  }
+]
