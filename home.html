@@ -3,33 +3,103 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
-  <title>FAFA Training – Accueil</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FAFA TRAINING - Accueil</title>
   <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom, #f4f4f4, #e0e0e0);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    header img {
+      max-width: 80px;
+      display: block;
+      margin: 0 auto 1rem;
+    }
+    h1 {
+      margin: 0;
+    }
+    main {
+      flex: 1;
+      padding: 2rem;
+      text-align: center;
+    }
+    main p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: auto;
+    }
+    nav {
+      margin-top: 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+    }
+    nav a {
+      background-color: #007bff;
+      color: white;
+      padding: 1rem 1.5rem;
+      border-radius: 50px;
+      text-decoration: none;
+      transition: background 0.3s;
+      font-weight: bold;
+    }
+    nav a:hover {
+      background-color: #0056b3;
+    }
+    .return-button {
+      position: fixed;
+      top: 1rem;
+      left: 1rem;
+      background: crimson;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: bold;
+      z-index: 1000;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      background-color: #222;
+      color: white;
+    }
+  </style>
 </head>
 <body>
-  <h1>🏠 Bienvenue sur FAFA Training</h1>
-  <section style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-    <a href="index.fr.html" class="card" style="text-decoration: none;">
-      <h2>🏋️ Entraînement</h2>
-      <p>Accède à tes exercices personnalisés</p>
-    </a>
-    <a href="defis.html" class="card" style="text-decoration: none;">
-      <h2>🎯 Défis</h2>
-      <p>Relève un défi du jour ou explore les 100 défis</p>
-    </a>
-    <a href="stats.html" class="card" style="text-decoration: none;">
-      <h2>📊 Statistiques</h2>
-      <p>Visualise ta progression</p>
-    </a>
-    <a href="nutrition_programmes.json" class="card" style="text-decoration: none;">
-      <h2>🍽️ Nutrition</h2>
-      <p>Menus par objectif et conseils alimentaires</p>
-    </a>
-    <a href="README.md" class="card" style="text-decoration: none;">
-      <h2>📖 À propos</h2>
-      <p>Guide de l'application FAFA Training</p>
-    </a>
-  </section>
+  <a href="dashboard.html" class="return-button">🔙 Retour</a>
+  <header>
+    <img src="logo-fafa.png" alt="Logo FAFA TRAINING" />
+    <h1>Bienvenue sur FAFA TRAINING</h1>
+    <p>Ta plateforme de coaching personnalisée 💪</p>
+  </header>
+  <main>
+    <p>Choisis une action ci-dessous pour commencer :</p>
+    <nav>
+      <a href="dashboard.html">🏁 Tableau de Bord</a>
+      <a href="interface.html">⚙️ Générer un Programme</a>
+      <a href="quiz.html">📝 Quiz / Formulaire</a>
+      <a href="conseils.html">📚 Conseils & Nutrition</a>
+      <a href="defis.html">🔥 Défis Enrichis</a>
+      <a href="stats.html">📈 Suivi Statistiques</a>
+      <a href="index.html">🏠 Accueil Principal</a>
+    </nav>
+  </main>
+  <footer>
+    &copy; 2025 FAFA TRAINING - Application responsive, complète et fun 💥
+  </footer>
 </body>
 </html>

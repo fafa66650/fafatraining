@@ -1,52 +1,300 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Interface FAFA Training</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="logo-fafa.png" type="image/png">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom, #f8f9fa, #e0e0e0);
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 15px;
+            text-align: center;
+            color: white;
+            font-size: 24px;
+            position: sticky;
+            top: 0;
+        }
+        nav {
+            margin: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        nav a {
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #2196F3;
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            background-color: #1976D2;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .back-button {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            background: #ff5722;
+            color: white;
+            padding: 10px;
+            border-radius: 50%;
+            font-size: 16px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <a class="back-button" href="home.html" title="Retour">⟵</a>
+    <header>
+        Bienvenue dans l'Espace FAFA Training 💪
+    </header>
 
+    <nav>
+        <a href="stats.html">📊 Statistiques</a>
+        <a href="quiz.html">📝 Quiz</a>
+        <a href="dashboard.html">📋 Tableau de Bord</a>
+        <a href="conseils.html">📚 Conseils</a>
+        <a href="defis.html">🔥 Défis</a>
+        <a href="home.html">🏠 Accueil</a>
+    </nav>
+
+    <div class="content">
+        
 <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
-  <title>FAFA TRAINING</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="manifest" href="manifest.json" />
+  <title>FAFA Training - Interface</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="icon" href="favicon.ico" />
-  <script src="images/script_final.js" defer></script>
+  <link rel="manifest" href="manifest.json" />
+  <script defer src="service-worker.js"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #222, #333);
+      color: #fff;
+    }
+    header {
+      background: #111;
+      padding: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header img {
+      height: 40px;
+    }
+    header button {
+      background: #e63946;
+      color: #fff;
+      border: none;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    main {
+      padding: 2rem;
+      animation: fadeIn 1s ease-in-out;
+    }
+    h1 {
+      font-size: 2rem;
+      color: #f1faee;
+    }
+    .notification {
+      background: #1d3557;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      animation: slideIn 0.5s ease-out;
+    }
+    audio {
+      display: block;
+      margin-top: 1rem;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes slideIn {
+      from { transform: translateX(100%); opacity: 0; }
+      to { transform: translateX(0); opacity: 1; }
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #1a1a1a;
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
 </head>
-<body class="interface">
-  <header class="header-logo">
-    <img src="images/logo-fafa.png" alt="Logo FAFA" class="logo" />
-    <h1>🚀 Bienvenue dans FAFA TRAINING</h1>
-    <p>Le seul coach qui bouge avec toi, quel que soit ton niveau.</p>
-    <p>Des défis fun, des exos concrets, des menus stylés, et zéro pression. On démarre !</p>
+<body>
+  <header>
+    <img src="logo-fafa.png" alt="Logo FAFA Training" />
+    <button onclick="logout()">Déconnexion</button>
   </header>
 
-  <main class="main-grid">
-    <section id="programme" class="card">
-      <h2>🏋️ Programme du jour</h2>
-      <div id="daily-program"></div>
-    </section>
+  <main>
+    <h1>Bienvenue dans ton espace FAFA Training 💪</h1>
+    <div class="notification">🔔 Nouveaux programmes disponibles !</div>
 
-    <section id="defi" class="card">
-      <h2>🎯 Défi du jour</h2>
-      <div id="daily-defi"></div>
-    </section>
+    <p>Choisis ton programme, suis tes défis et reste motivé avec nos conseils !</p>
 
-    <section id="nutrition" class="card">
-      <h2>🍽️ Menu nutrition</h2>
-      <div id="daily-nutrition"></div>
-    </section>
-
-    <section id="stats" class="card">
-      <h2>📊 Statistiques</h2>
-      <div id="user-stats"></div>
-    </section>
-
-    <section id="conseils" class="card">
-      <h2>📘 Conseils personnalisés</h2>
-      <div id="tips-area"></div>
-    </section>
+    <audio controls loop>
+      <source src="audio/motivation.mp3" type="audio/mpeg" />
+      Ton navigateur ne supporte pas l’audio HTML5.
+    </audio>
   </main>
 
   <footer>
-    <p>&copy; FAFA Training – Version V8</p>
+    &copy; 2025 FAFA Training - Tous droits réservés
   </footer>
+
+  <script>
+    function logout() {
+      alert("Déconnecté !");
+      window.location.href = "index.html";
+    }
+  </script>
+</body>
+</html>
+
+        <hr>
+        
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FAFA Training - Interface</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="favicon.ico" />
+  <link rel="manifest" href="manifest.json" />
+  <script defer src="service-worker.js"></script>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #222, #333);
+      color: #fff;
+    }
+    header {
+      background: #111;
+      padding: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header img {
+      height: 40px;
+    }
+    header button {
+      background: #e63946;
+      color: #fff;
+      border: none;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    main {
+      padding: 2rem;
+      animation: fadeIn 1s ease-in-out;
+    }
+    h1 {
+      font-size: 2rem;
+      color: #f1faee;
+    }
+    .notification {
+      background: #1d3557;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      animation: slideIn 0.5s ease-out;
+    }
+    audio {
+      display: block;
+      margin-top: 1rem;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes slideIn {
+      from { transform: translateX(100%); opacity: 0; }
+      to { transform: translateX(0); opacity: 1; }
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #1a1a1a;
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo-fafa.png" alt="Logo FAFA Training" />
+    <button onclick="logout()">Déconnexion</button>
+  </header>
+
+  <main>
+    <h1>Bienvenue dans ton espace FAFA Training 💪</h1>
+    <div class="notification">🔔 Nouveaux programmes disponibles !</div>
+
+    <p>Choisis ton programme, suis tes défis et reste motivé avec nos conseils !</p>
+
+    <audio controls loop>
+      <source src="audio/motivation.mp3" type="audio/mpeg" />
+      Ton navigateur ne supporte pas l’audio HTML5.
+    </audio>
+  </main>
+
+  <footer>
+    &copy; 2025 FAFA Training - Tous droits réservés
+  </footer>
+
+  <script>
+    function logout() {
+      alert("Déconnecté !");
+      window.location.href = "index.html";
+    }
+  </script>
+</body>
+</html>
+
+    </div>
+
+    <footer>
+        &copy; 2025 FAFA Training - Tous droits réservés
+    </footer>
 </body>
 </html>

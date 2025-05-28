@@ -8,9 +8,26 @@
   <link rel="manifest" href="manifest.json" />
   <link rel="icon" href="favicon.ico" />
   <link rel="stylesheet" href="style.css" />
-  <script src="images/script_final.js" defer></script>
+  <script src="script_final.js" defer></script>
 </head>
 <body>
+
+<a href="home.html" class="return-button">🔙 Accueil</a>
+<style>
+  .return-button {{
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    background: crimson;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    z-index: 1000;
+  }}
+</style>
+
   <h1 data-i18n="welcome">Welcome to FAFA Training</h1>
   <div id="login-section">
     <input id="username" placeholder="Name" />

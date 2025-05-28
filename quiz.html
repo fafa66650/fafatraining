@@ -5,7 +5,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>🔥 Défis Enrichis</title>
+<title>📝 Formulaire / Quiz</title>
 <link href="style.css" rel="stylesheet"/>
 <style>
     body {
@@ -50,7 +50,7 @@
 </head>
 <body>
 <header>
-<h1>📅 Défis du jour et plus</h1>
+<h1>📝 Questionnaire personnalisé</h1>
 <nav>
 <a href="index.html">🏠 Accueil</a>
 <a href="home.html">📋 Tableau de bord</a>
@@ -80,23 +80,42 @@
 <div class="return-button">
 <a href="home.html">🔙 Retour</a>
 </div>
-<section id="filters">
-<label for="filtre-niveau">Niveau :</label>
-<select id="filtre-niveau">
-<option value="">Tous</option>
-<option value="Enfant">Enfant</option>
-<option value="Débutant">Débutant</option>
-<option value="Intermédiaire">Intermédiaire</option>
-<option value="Avancé">Avancé</option>
-<option value="Senior">Senior</option>
+<form id="quiz-form">
+<label for="nom">Nom :</label>
+<input id="nom" name="nom" required="" type="text"/>
+<label for="age">Âge :</label>
+<input id="age" max="100" min="5" name="age" required="" type="number"/>
+<label for="poids">Poids (kg) :</label>
+<input id="poids" name="poids" required="" type="number"/>
+<label for="taille">Taille (cm) :</label>
+<input id="taille" name="taille" required="" type="number"/>
+<label for="objectif">Objectif :</label>
+<select id="objectif" multiple="" name="objectif">
+<option value="perte">Perte de poids</option>
+<option value="muscle">Prise de muscle</option>
+<option value="entretien">Entretien</option>
+<option value="souplesse">Souplesse</option>
 </select>
-</section><section id="defi-du-jour">
-<h2>🔁 Défi du jour</h2>
-<div id="daily-defi"></div>
-</section><section id="tous-les-defis">
-<h2>📚 Tous les défis</h2>
-<div id="liste-defis"></div>
-</section></main>
+<label for="niveau">Niveau :</label>
+<select id="niveau" name="niveau">
+<option value="debutant">Débutant</option>
+<option value="intermediaire">Intermédiaire</option>
+<option value="avance">Avancé</option>
+</select>
+<label for="frequence">Séances par semaine :</label>
+<input id="frequence" max="7" min="1" name="frequence" required="" type="number"/>
+<label for="materiel">Matériel disponible :</label>
+<select id="materiel" multiple="" name="materiel">
+<option value="haltères">Haltères</option>
+<option value="corde">Corde à sauter</option>
+<option value="roue">Roue abdo</option>
+<option value="échelle">Échelle</option>
+<option value="cone">Cônes</option>
+<option value="ball">Medicine Ball</option>
+<option value="battle">Battle rope</option>
+</select>
+<button type="submit">Générer mon programme</button>
+</form></main>
 
 
 <footer>

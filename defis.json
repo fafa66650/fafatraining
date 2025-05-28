@@ -5,7 +5,10 @@
     "theme": "Cinéma d'action",
     "objectif": "3 séries de 10 répétitions de Squats adapté au niveau débutant",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_1.png"
+    "image": "img/defi_1.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 30
   },
   {
     "nom": "Défi 2 - Zen",
@@ -13,7 +16,10 @@
     "theme": "Zen",
     "objectif": "3 minutes de Course adapté au niveau débutant",
     "duree": "3 minutes",
-    "image": "img/defi_2.png"
+    "image": "img/defi_2.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 3 minutes minutes.",
+    "repetitions": 17
   },
   {
     "nom": "Défi 3 - Harry Potter",
@@ -21,7 +27,10 @@
     "theme": "Harry Potter",
     "objectif": "3 séries de 10 répétitions de Fentes adapté au niveau débutant",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_3.png"
+    "image": "img/defi_3.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 30
   },
   {
     "nom": "Défi 4 - Harry Potter",
@@ -29,7 +38,10 @@
     "theme": "Harry Potter",
     "objectif": "4 séries de 30 secondes de Pompes adapté au niveau débutant",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_4.png"
+    "image": "img/defi_4.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 12
   },
   {
     "nom": "Défi 5 - Gaming",
@@ -37,7 +49,10 @@
     "theme": "Gaming",
     "objectif": "3 minutes de Burpees adapté au niveau débutant",
     "duree": "3 minutes",
-    "image": "img/defi_5.png"
+    "image": "img/defi_5.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 3 minutes minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 6 - Olympiques",
@@ -45,7 +60,10 @@
     "theme": "Olympiques",
     "objectif": "5 minutes de Boxe adapté au niveau enfant",
     "duree": "5 minutes",
-    "image": "img/defi_6.png"
+    "image": "img/defi_6.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 5 minutes minutes.",
+    "repetitions": 16
   },
   {
     "nom": "Défi 7 - Cinéma d'action",
@@ -53,7 +71,10 @@
     "theme": "Cinéma d'action",
     "objectif": "5 minutes de Burpees adapté au niveau intermédiaire",
     "duree": "5 minutes",
-    "image": "img/defi_7.png"
+    "image": "img/defi_7.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 5 minutes minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 8 - Zen",
@@ -61,7 +82,10 @@
     "theme": "Zen",
     "objectif": "2 minutes de Gainage adapté au niveau enfant",
     "duree": "2 minutes",
-    "image": "img/defi_8.png"
+    "image": "img/defi_8.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 2 minutes minutes.",
+    "repetitions": 28
   },
   {
     "nom": "Défi 9 - Manga",
@@ -69,7 +93,10 @@
     "theme": "Manga",
     "objectif": "3 séries de 10 répétitions de Pompes adapté au niveau avancé",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_9.png"
+    "image": "img/defi_9.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 21
   },
   {
     "nom": "Défi 10 - Anti-stress",
@@ -77,7 +104,10 @@
     "theme": "Anti-stress",
     "objectif": "20 répétitions de Gainage adapté au niveau enfant",
     "duree": "20 répétitions",
-    "image": "img/defi_10.png"
+    "image": "img/defi_10.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 20 répétitions minutes.",
+    "repetitions": 10
   },
   {
     "nom": "Défi 11 - Olympiques",
@@ -85,7 +115,10 @@
     "theme": "Olympiques",
     "objectif": "2 séries de 15 répétitions de Jumping Jacks adapté au niveau senior",
     "duree": "2 séries de 15 répétitions",
-    "image": "img/defi_11.png"
+    "image": "img/defi_11.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 2 séries de 15 répétitions minutes.",
+    "repetitions": 12
   },
   {
     "nom": "Défi 12 - Noël",
@@ -93,7 +126,10 @@
     "theme": "Noël",
     "objectif": "30 secondes de Pompes adapté au niveau enfant",
     "duree": "30 secondes",
-    "image": "img/defi_12.png"
+    "image": "img/defi_12.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 30 secondes minutes.",
+    "repetitions": 25
   },
   {
     "nom": "Défi 13 - Fête de la Musique",
@@ -101,7 +137,10 @@
     "theme": "Fête de la Musique",
     "objectif": "30 secondes de Étirements adapté au niveau avancé",
     "duree": "30 secondes",
-    "image": "img/defi_13.png"
+    "image": "img/defi_13.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 30 secondes minutes.",
+    "repetitions": 16
   },
   {
     "nom": "Défi 14 - Astrologie Bélier",
@@ -109,7 +148,10 @@
     "theme": "Astrologie Bélier",
     "objectif": "4 séries de 30 secondes de Course adapté au niveau enfant",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_14.png"
+    "image": "img/defi_14.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 12
   },
   {
     "nom": "Défi 15 - Halloween",
@@ -117,7 +159,10 @@
     "theme": "Halloween",
     "objectif": "20 répétitions de Gainage adapté au niveau enfant",
     "duree": "20 répétitions",
-    "image": "img/defi_15.png"
+    "image": "img/defi_15.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 20 répétitions minutes.",
+    "repetitions": 17
   },
   {
     "nom": "Défi 16 - Astrologie Lion",
@@ -125,7 +170,10 @@
     "theme": "Astrologie Lion",
     "objectif": "3 minutes de Course adapté au niveau senior",
     "duree": "3 minutes",
-    "image": "img/defi_16.png"
+    "image": "img/defi_16.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 3 minutes minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 17 - Olympiques",
@@ -133,7 +181,10 @@
     "theme": "Olympiques",
     "objectif": "2 minutes de Burpees adapté au niveau intermédiaire",
     "duree": "2 minutes",
-    "image": "img/defi_17.png"
+    "image": "img/defi_17.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 2 minutes minutes.",
+    "repetitions": 25
   },
   {
     "nom": "Défi 18 - Astrologie Lion",
@@ -141,7 +192,10 @@
     "theme": "Astrologie Lion",
     "objectif": "4 séries de 30 secondes de Squats adapté au niveau avancé",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_18.png"
+    "image": "img/defi_18.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 15
   },
   {
     "nom": "Défi 19 - Super-héros",
@@ -149,7 +203,10 @@
     "theme": "Super-héros",
     "objectif": "4 séries de 30 secondes de Pompes adapté au niveau avancé",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_19.png"
+    "image": "img/defi_19.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 13
   },
   {
     "nom": "Défi 20 - Noël",
@@ -157,7 +214,10 @@
     "theme": "Noël",
     "objectif": "4 séries de 30 secondes de Boxe adapté au niveau senior",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_20.png"
+    "image": "img/defi_20.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 16
   },
   {
     "nom": "Défi 21 - Détox",
@@ -165,7 +225,10 @@
     "theme": "Détox",
     "objectif": "30 répétitions de Pompes adapté au niveau avancé",
     "duree": "30 répétitions",
-    "image": "img/defi_21.png"
+    "image": "img/defi_21.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 30 répétitions minutes.",
+    "repetitions": 15
   },
   {
     "nom": "Défi 22 - Gaming",
@@ -173,7 +236,10 @@
     "theme": "Gaming",
     "objectif": "4 séries de 30 secondes de Course adapté au niveau intermédiaire",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_22.png"
+    "image": "img/defi_22.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 14
   },
   {
     "nom": "Défi 23 - Nouvel An",
@@ -181,7 +247,10 @@
     "theme": "Nouvel An",
     "objectif": "30 secondes de Gainage adapté au niveau enfant",
     "duree": "30 secondes",
-    "image": "img/defi_23.png"
+    "image": "img/defi_23.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 30 secondes minutes.",
+    "repetitions": 27
   },
   {
     "nom": "Défi 24 - Back to School",
@@ -189,7 +258,10 @@
     "theme": "Back to School",
     "objectif": "30 répétitions de Jumping Jacks adapté au niveau avancé",
     "duree": "30 répétitions",
-    "image": "img/defi_24.png"
+    "image": "img/defi_24.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 30 répétitions minutes.",
+    "repetitions": 24
   },
   {
     "nom": "Défi 25 - Challenge TikTok",
@@ -197,7 +269,10 @@
     "theme": "Challenge TikTok",
     "objectif": "4 séries de 30 secondes de Jumping Jacks adapté au niveau intermédiaire",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_25.png"
+    "image": "img/defi_25.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 21
   },
   {
     "nom": "Défi 26 - Halloween",
@@ -205,7 +280,10 @@
     "theme": "Halloween",
     "objectif": "3 séries de 10 répétitions de Squats adapté au niveau enfant",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_26.png"
+    "image": "img/defi_26.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 27 - Olympiques",
@@ -213,7 +291,10 @@
     "theme": "Olympiques",
     "objectif": "1 minute de Gainage adapté au niveau avancé",
     "duree": "1 minute",
-    "image": "img/defi_27.png"
+    "image": "img/defi_27.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 1 minute minutes.",
+    "repetitions": 24
   },
   {
     "nom": "Défi 28 - Challenge TikTok",
@@ -221,7 +302,10 @@
     "theme": "Challenge TikTok",
     "objectif": "4 séries de 30 secondes de Gainage adapté au niveau avancé",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_28.png"
+    "image": "img/defi_28.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 11
   },
   {
     "nom": "Défi 29 - Zen",
@@ -229,7 +313,10 @@
     "theme": "Zen",
     "objectif": "1 minute de Gainage adapté au niveau senior",
     "duree": "1 minute",
-    "image": "img/defi_29.png"
+    "image": "img/defi_29.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 1 minute minutes.",
+    "repetitions": 14
   },
   {
     "nom": "Défi 30 - Rentrée",
@@ -237,7 +324,10 @@
     "theme": "Rentrée",
     "objectif": "2 minutes de Planche adapté au niveau senior",
     "duree": "2 minutes",
-    "image": "img/defi_30.png"
+    "image": "img/defi_30.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 2 minutes minutes.",
+    "repetitions": 26
   },
   {
     "nom": "Défi 31 - Super-héros",
@@ -245,7 +335,10 @@
     "theme": "Super-héros",
     "objectif": "2 séries de 15 répétitions de Pompes adapté au niveau enfant",
     "duree": "2 séries de 15 répétitions",
-    "image": "img/defi_31.png"
+    "image": "img/defi_31.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 2 séries de 15 répétitions minutes.",
+    "repetitions": 19
   },
   {
     "nom": "Défi 32 - Détox",
@@ -253,7 +346,10 @@
     "theme": "Détox",
     "objectif": "3 séries de 10 répétitions de Étirements adapté au niveau senior",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_32.png"
+    "image": "img/defi_32.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 11
   },
   {
     "nom": "Défi 33 - Gaming",
@@ -261,7 +357,10 @@
     "theme": "Gaming",
     "objectif": "2 séries de 15 répétitions de Étirements adapté au niveau débutant",
     "duree": "2 séries de 15 répétitions",
-    "image": "img/defi_33.png"
+    "image": "img/defi_33.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 2 séries de 15 répétitions minutes.",
+    "repetitions": 16
   },
   {
     "nom": "Défi 34 - Gaming",
@@ -269,7 +368,10 @@
     "theme": "Gaming",
     "objectif": "5 minutes de Burpees adapté au niveau enfant",
     "duree": "5 minutes",
-    "image": "img/defi_34.png"
+    "image": "img/defi_34.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 5 minutes minutes.",
+    "repetitions": 25
   },
   {
     "nom": "Défi 35 - Back to School",
@@ -277,7 +379,10 @@
     "theme": "Back to School",
     "objectif": "3 minutes de Squats adapté au niveau enfant",
     "duree": "3 minutes",
-    "image": "img/defi_35.png"
+    "image": "img/defi_35.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 3 minutes minutes.",
+    "repetitions": 30
   },
   {
     "nom": "Défi 36 - Détox",
@@ -285,7 +390,10 @@
     "theme": "Détox",
     "objectif": "2 séries de 15 répétitions de Boxe adapté au niveau intermédiaire",
     "duree": "2 séries de 15 répétitions",
-    "image": "img/defi_36.png"
+    "image": "img/defi_36.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 2 séries de 15 répétitions minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 37 - Rentrée",
@@ -293,7 +401,10 @@
     "theme": "Rentrée",
     "objectif": "10 répétitions de Course adapté au niveau enfant",
     "duree": "10 répétitions",
-    "image": "img/defi_37.png"
+    "image": "img/defi_37.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 10 répétitions minutes.",
+    "repetitions": 30
   },
   {
     "nom": "Défi 38 - Manga",
@@ -301,7 +412,10 @@
     "theme": "Manga",
     "objectif": "10 répétitions de Burpees adapté au niveau intermédiaire",
     "duree": "10 répétitions",
-    "image": "img/defi_38.png"
+    "image": "img/defi_38.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 10 répétitions minutes.",
+    "repetitions": 19
   },
   {
     "nom": "Défi 39 - Halloween",
@@ -309,7 +423,10 @@
     "theme": "Halloween",
     "objectif": "3 minutes de Planche adapté au niveau débutant",
     "duree": "3 minutes",
-    "image": "img/defi_39.png"
+    "image": "img/defi_39.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 3 minutes minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 40 - Manga",
@@ -317,7 +434,10 @@
     "theme": "Manga",
     "objectif": "30 répétitions de Squats adapté au niveau enfant",
     "duree": "30 répétitions",
-    "image": "img/defi_40.png"
+    "image": "img/defi_40.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 30 répétitions minutes.",
+    "repetitions": 13
   },
   {
     "nom": "Défi 41 - Astrologie Lion",
@@ -325,7 +445,10 @@
     "theme": "Astrologie Lion",
     "objectif": "30 répétitions de Course adapté au niveau enfant",
     "duree": "30 répétitions",
-    "image": "img/defi_41.png"
+    "image": "img/defi_41.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 30 répétitions minutes.",
+    "repetitions": 27
   },
   {
     "nom": "Défi 42 - Nouvel An",
@@ -333,7 +456,10 @@
     "theme": "Nouvel An",
     "objectif": "30 répétitions de Fentes adapté au niveau intermédiaire",
     "duree": "30 répétitions",
-    "image": "img/defi_42.png"
+    "image": "img/defi_42.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 30 répétitions minutes.",
+    "repetitions": 21
   },
   {
     "nom": "Défi 43 - Fête de la Musique",
@@ -341,7 +467,10 @@
     "theme": "Fête de la Musique",
     "objectif": "30 répétitions de Planche adapté au niveau senior",
     "duree": "30 répétitions",
-    "image": "img/defi_43.png"
+    "image": "img/defi_43.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 30 répétitions minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 44 - Rentrée",
@@ -349,7 +478,10 @@
     "theme": "Rentrée",
     "objectif": "4 séries de 30 secondes de Planche adapté au niveau intermédiaire",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_44.png"
+    "image": "img/defi_44.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 16
   },
   {
     "nom": "Défi 45 - Gaming",
@@ -357,7 +489,10 @@
     "theme": "Gaming",
     "objectif": "2 séries de 15 répétitions de Gainage adapté au niveau intermédiaire",
     "duree": "2 séries de 15 répétitions",
-    "image": "img/defi_45.png"
+    "image": "img/defi_45.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 2 séries de 15 répétitions minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 46 - Manga",
@@ -365,7 +500,10 @@
     "theme": "Manga",
     "objectif": "3 séries de 10 répétitions de Fentes adapté au niveau débutant",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_46.png"
+    "image": "img/defi_46.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 18
   },
   {
     "nom": "Défi 47 - Rentrée",
@@ -373,7 +511,10 @@
     "theme": "Rentrée",
     "objectif": "3 séries de 10 répétitions de Fentes adapté au niveau avancé",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_47.png"
+    "image": "img/defi_47.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 11
   },
   {
     "nom": "Défi 48 - Été",
@@ -381,7 +522,10 @@
     "theme": "Été",
     "objectif": "5 minutes de Planche adapté au niveau débutant",
     "duree": "5 minutes",
-    "image": "img/defi_48.png"
+    "image": "img/defi_48.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 5 minutes minutes.",
+    "repetitions": 11
   },
   {
     "nom": "Défi 49 - Nouvel An",
@@ -389,7 +533,10 @@
     "theme": "Nouvel An",
     "objectif": "10 répétitions de Course adapté au niveau avancé",
     "duree": "10 répétitions",
-    "image": "img/defi_49.png"
+    "image": "img/defi_49.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 10 répétitions minutes.",
+    "repetitions": 19
   },
   {
     "nom": "Défi 50 - Zen",
@@ -397,7 +544,10 @@
     "theme": "Zen",
     "objectif": "20 répétitions de Étirements adapté au niveau senior",
     "duree": "20 répétitions",
-    "image": "img/defi_50.png"
+    "image": "img/defi_50.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 20 répétitions minutes.",
+    "repetitions": 27
   },
   {
     "nom": "Défi 51 - Fête de la Musique",
@@ -405,7 +555,10 @@
     "theme": "Fête de la Musique",
     "objectif": "30 répétitions de Boxe adapté au niveau débutant",
     "duree": "30 répétitions",
-    "image": "img/defi_51.png"
+    "image": "img/defi_51.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 30 répétitions minutes.",
+    "repetitions": 22
   },
   {
     "nom": "Défi 52 - Été",
@@ -413,7 +566,10 @@
     "theme": "Été",
     "objectif": "2 séries de 15 répétitions de Burpees adapté au niveau avancé",
     "duree": "2 séries de 15 répétitions",
-    "image": "img/defi_52.png"
+    "image": "img/defi_52.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 2 séries de 15 répétitions minutes.",
+    "repetitions": 26
   },
   {
     "nom": "Défi 53 - Gaming",
@@ -421,7 +577,10 @@
     "theme": "Gaming",
     "objectif": "4 séries de 30 secondes de Burpees adapté au niveau senior",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_53.png"
+    "image": "img/defi_53.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 27
   },
   {
     "nom": "Défi 54 - Cinéma d'action",
@@ -429,7 +588,10 @@
     "theme": "Cinéma d'action",
     "objectif": "3 minutes de Boxe adapté au niveau intermédiaire",
     "duree": "3 minutes",
-    "image": "img/defi_54.png"
+    "image": "img/defi_54.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 3 minutes minutes.",
+    "repetitions": 11
   },
   {
     "nom": "Défi 55 - Films Marvel",
@@ -437,7 +599,10 @@
     "theme": "Films Marvel",
     "objectif": "5 minutes de Squats adapté au niveau avancé",
     "duree": "5 minutes",
-    "image": "img/defi_55.png"
+    "image": "img/defi_55.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 5 minutes minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 56 - Olympiques",
@@ -445,7 +610,10 @@
     "theme": "Olympiques",
     "objectif": "30 secondes de Étirements adapté au niveau enfant",
     "duree": "30 secondes",
-    "image": "img/defi_56.png"
+    "image": "img/defi_56.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 30 secondes minutes.",
+    "repetitions": 25
   },
   {
     "nom": "Défi 57 - Cinéma d'action",
@@ -453,7 +621,10 @@
     "theme": "Cinéma d'action",
     "objectif": "4 séries de 30 secondes de Étirements adapté au niveau intermédiaire",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_57.png"
+    "image": "img/defi_57.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 13
   },
   {
     "nom": "Défi 58 - Super-héros",
@@ -461,7 +632,10 @@
     "theme": "Super-héros",
     "objectif": "30 secondes de Étirements adapté au niveau débutant",
     "duree": "30 secondes",
-    "image": "img/defi_58.png"
+    "image": "img/defi_58.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 30 secondes minutes.",
+    "repetitions": 14
   },
   {
     "nom": "Défi 59 - Super-héros",
@@ -469,7 +643,10 @@
     "theme": "Super-héros",
     "objectif": "3 séries de 10 répétitions de Course adapté au niveau débutant",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_59.png"
+    "image": "img/defi_59.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 18
   },
   {
     "nom": "Défi 60 - Astrologie Bélier",
@@ -477,7 +654,10 @@
     "theme": "Astrologie Bélier",
     "objectif": "30 secondes de Planche adapté au niveau intermédiaire",
     "duree": "30 secondes",
-    "image": "img/defi_60.png"
+    "image": "img/defi_60.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 30 secondes minutes.",
+    "repetitions": 13
   },
   {
     "nom": "Défi 61 - Cinéma d'action",
@@ -485,7 +665,10 @@
     "theme": "Cinéma d'action",
     "objectif": "4 séries de 30 secondes de Jumping Jacks adapté au niveau débutant",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_61.png"
+    "image": "img/defi_61.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 25
   },
   {
     "nom": "Défi 62 - Challenge TikTok",
@@ -493,7 +676,10 @@
     "theme": "Challenge TikTok",
     "objectif": "2 minutes de Fentes adapté au niveau senior",
     "duree": "2 minutes",
-    "image": "img/defi_62.png"
+    "image": "img/defi_62.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 2 minutes minutes.",
+    "repetitions": 22
   },
   {
     "nom": "Défi 63 - Fête de la Musique",
@@ -501,7 +687,10 @@
     "theme": "Fête de la Musique",
     "objectif": "2 minutes de Jumping Jacks adapté au niveau intermédiaire",
     "duree": "2 minutes",
-    "image": "img/defi_63.png"
+    "image": "img/defi_63.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 2 minutes minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 64 - Harry Potter",
@@ -509,7 +698,10 @@
     "theme": "Harry Potter",
     "objectif": "3 minutes de Jumping Jacks adapté au niveau intermédiaire",
     "duree": "3 minutes",
-    "image": "img/defi_64.png"
+    "image": "img/defi_64.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 3 minutes minutes.",
+    "repetitions": 28
   },
   {
     "nom": "Défi 65 - Challenge TikTok",
@@ -517,7 +709,10 @@
     "theme": "Challenge TikTok",
     "objectif": "5 minutes de Étirements adapté au niveau avancé",
     "duree": "5 minutes",
-    "image": "img/defi_65.png"
+    "image": "img/defi_65.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 5 minutes minutes.",
+    "repetitions": 22
   },
   {
     "nom": "Défi 66 - Rentrée",
@@ -525,7 +720,10 @@
     "theme": "Rentrée",
     "objectif": "30 secondes de Boxe adapté au niveau intermédiaire",
     "duree": "30 secondes",
-    "image": "img/defi_66.png"
+    "image": "img/defi_66.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 30 secondes minutes.",
+    "repetitions": 15
   },
   {
     "nom": "Défi 67 - Détox",
@@ -533,7 +731,10 @@
     "theme": "Détox",
     "objectif": "2 séries de 15 répétitions de Fentes adapté au niveau débutant",
     "duree": "2 séries de 15 répétitions",
-    "image": "img/defi_67.png"
+    "image": "img/defi_67.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 2 séries de 15 répétitions minutes.",
+    "repetitions": 29
   },
   {
     "nom": "Défi 68 - Manga",
@@ -541,7 +742,10 @@
     "theme": "Manga",
     "objectif": "2 minutes de Squats adapté au niveau senior",
     "duree": "2 minutes",
-    "image": "img/defi_68.png"
+    "image": "img/defi_68.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 2 minutes minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 69 - Zen",
@@ -549,7 +753,10 @@
     "theme": "Zen",
     "objectif": "30 secondes de Course adapté au niveau débutant",
     "duree": "30 secondes",
-    "image": "img/defi_69.png"
+    "image": "img/defi_69.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 30 secondes minutes.",
+    "repetitions": 26
   },
   {
     "nom": "Défi 70 - Challenge TikTok",
@@ -557,7 +764,10 @@
     "theme": "Challenge TikTok",
     "objectif": "4 séries de 30 secondes de Planche adapté au niveau intermédiaire",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_70.png"
+    "image": "img/defi_70.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 28
   },
   {
     "nom": "Défi 71 - Rentrée",
@@ -565,7 +775,10 @@
     "theme": "Rentrée",
     "objectif": "30 secondes de Gainage adapté au niveau senior",
     "duree": "30 secondes",
-    "image": "img/defi_71.png"
+    "image": "img/defi_71.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 30 secondes minutes.",
+    "repetitions": 28
   },
   {
     "nom": "Défi 72 - Zen",
@@ -573,7 +786,10 @@
     "theme": "Zen",
     "objectif": "3 séries de 10 répétitions de Squats adapté au niveau enfant",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_72.png"
+    "image": "img/defi_72.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 14
   },
   {
     "nom": "Défi 73 - Harry Potter",
@@ -581,7 +797,10 @@
     "theme": "Harry Potter",
     "objectif": "2 minutes de Burpees adapté au niveau intermédiaire",
     "duree": "2 minutes",
-    "image": "img/defi_73.png"
+    "image": "img/defi_73.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 2 minutes minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 74 - Harry Potter",
@@ -589,7 +808,10 @@
     "theme": "Harry Potter",
     "objectif": "30 secondes de Squats adapté au niveau senior",
     "duree": "30 secondes",
-    "image": "img/defi_74.png"
+    "image": "img/defi_74.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 30 secondes minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 75 - Films Marvel",
@@ -597,7 +819,10 @@
     "theme": "Films Marvel",
     "objectif": "5 minutes de Étirements adapté au niveau intermédiaire",
     "duree": "5 minutes",
-    "image": "img/defi_75.png"
+    "image": "img/defi_75.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 5 minutes minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 76 - Rentrée",
@@ -605,7 +830,10 @@
     "theme": "Rentrée",
     "objectif": "10 répétitions de Fentes adapté au niveau senior",
     "duree": "10 répétitions",
-    "image": "img/defi_76.png"
+    "image": "img/defi_76.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 10 répétitions minutes.",
+    "repetitions": 18
   },
   {
     "nom": "Défi 77 - Zen",
@@ -613,7 +841,10 @@
     "theme": "Zen",
     "objectif": "10 répétitions de Planche adapté au niveau débutant",
     "duree": "10 répétitions",
-    "image": "img/defi_77.png"
+    "image": "img/defi_77.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 10 répétitions minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 78 - Harry Potter",
@@ -621,7 +852,10 @@
     "theme": "Harry Potter",
     "objectif": "30 répétitions de Planche adapté au niveau débutant",
     "duree": "30 répétitions",
-    "image": "img/defi_78.png"
+    "image": "img/defi_78.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 30 répétitions minutes.",
+    "repetitions": 22
   },
   {
     "nom": "Défi 79 - Rentrée",
@@ -629,7 +863,10 @@
     "theme": "Rentrée",
     "objectif": "3 séries de 10 répétitions de Gainage adapté au niveau senior",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_79.png"
+    "image": "img/defi_79.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 22
   },
   {
     "nom": "Défi 80 - Cinéma d'action",
@@ -637,7 +874,10 @@
     "theme": "Cinéma d'action",
     "objectif": "10 répétitions de Burpees adapté au niveau avancé",
     "duree": "10 répétitions",
-    "image": "img/defi_80.png"
+    "image": "img/defi_80.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 10 répétitions minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 81 - Films Marvel",
@@ -645,7 +885,10 @@
     "theme": "Films Marvel",
     "objectif": "3 séries de 10 répétitions de Planche adapté au niveau enfant",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_81.png"
+    "image": "img/defi_81.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 28
   },
   {
     "nom": "Défi 82 - Olympiques",
@@ -653,7 +896,10 @@
     "theme": "Olympiques",
     "objectif": "30 secondes de Gainage adapté au niveau senior",
     "duree": "30 secondes",
-    "image": "img/defi_82.png"
+    "image": "img/defi_82.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 30 secondes minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 83 - Halloween",
@@ -661,7 +907,10 @@
     "theme": "Halloween",
     "objectif": "5 minutes de Gainage adapté au niveau senior",
     "duree": "5 minutes",
-    "image": "img/defi_83.png"
+    "image": "img/defi_83.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 5 minutes minutes.",
+    "repetitions": 12
   },
   {
     "nom": "Défi 84 - Gaming",
@@ -669,7 +918,10 @@
     "theme": "Gaming",
     "objectif": "30 répétitions de Gainage adapté au niveau enfant",
     "duree": "30 répétitions",
-    "image": "img/defi_84.png"
+    "image": "img/defi_84.png",
+    "zone": "full body",
+    "description": "Réalise cet exercice pour travailler le full body pendant 30 répétitions minutes.",
+    "repetitions": 13
   },
   {
     "nom": "Défi 85 - Manga",
@@ -677,7 +929,10 @@
     "theme": "Manga",
     "objectif": "20 répétitions de Étirements adapté au niveau avancé",
     "duree": "20 répétitions",
-    "image": "img/defi_85.png"
+    "image": "img/defi_85.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 20 répétitions minutes.",
+    "repetitions": 21
   },
   {
     "nom": "Défi 86 - Cinéma d'action",
@@ -685,7 +940,10 @@
     "theme": "Cinéma d'action",
     "objectif": "5 minutes de Burpees adapté au niveau avancé",
     "duree": "5 minutes",
-    "image": "img/defi_86.png"
+    "image": "img/defi_86.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 5 minutes minutes.",
+    "repetitions": 21
   },
   {
     "nom": "Défi 87 - Anti-stress",
@@ -693,7 +951,10 @@
     "theme": "Anti-stress",
     "objectif": "30 répétitions de Étirements adapté au niveau intermédiaire",
     "duree": "30 répétitions",
-    "image": "img/defi_87.png"
+    "image": "img/defi_87.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 30 répétitions minutes.",
+    "repetitions": 17
   },
   {
     "nom": "Défi 88 - Manga",
@@ -701,7 +962,10 @@
     "theme": "Manga",
     "objectif": "3 séries de 10 répétitions de Burpees adapté au niveau débutant",
     "duree": "3 séries de 10 répétitions",
-    "image": "img/defi_88.png"
+    "image": "img/defi_88.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 3 séries de 10 répétitions minutes.",
+    "repetitions": 26
   },
   {
     "nom": "Défi 89 - Été",
@@ -709,7 +973,10 @@
     "theme": "Été",
     "objectif": "5 minutes de Boxe adapté au niveau intermédiaire",
     "duree": "5 minutes",
-    "image": "img/defi_89.png"
+    "image": "img/defi_89.png",
+    "zone": "bas du corps",
+    "description": "Réalise cet exercice pour travailler le bas du corps pendant 5 minutes minutes.",
+    "repetitions": 16
   },
   {
     "nom": "Défi 90 - Nouvel An",
@@ -717,7 +984,10 @@
     "theme": "Nouvel An",
     "objectif": "30 répétitions de Gainage adapté au niveau intermédiaire",
     "duree": "30 répétitions",
-    "image": "img/defi_90.png"
+    "image": "img/defi_90.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 30 répétitions minutes.",
+    "repetitions": 22
   },
   {
     "nom": "Défi 91 - Challenge YouTube",
@@ -725,7 +995,10 @@
     "theme": "Challenge YouTube",
     "objectif": "4 séries de 30 secondes de Pompes adapté au niveau débutant",
     "duree": "4 séries de 30 secondes",
-    "image": "img/defi_91.png"
+    "image": "img/defi_91.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 4 séries de 30 secondes minutes.",
+    "repetitions": 27
   },
   {
     "nom": "Défi 92 - Astrologie Lion",
@@ -733,7 +1006,10 @@
     "theme": "Astrologie Lion",
     "objectif": "1 minute de Pompes adapté au niveau enfant",
     "duree": "1 minute",
-    "image": "img/defi_92.png"
+    "image": "img/defi_92.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 1 minute minutes.",
+    "repetitions": 28
   },
   {
     "nom": "Défi 93 - Films Marvel",
@@ -741,7 +1017,10 @@
     "theme": "Films Marvel",
     "objectif": "20 répétitions de Étirements adapté au niveau intermédiaire",
     "duree": "20 répétitions",
-    "image": "img/defi_93.png"
+    "image": "img/defi_93.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 20 répétitions minutes.",
+    "repetitions": 23
   },
   {
     "nom": "Défi 94 - Anti-stress",
@@ -749,7 +1028,10 @@
     "theme": "Anti-stress",
     "objectif": "30 répétitions de Boxe adapté au niveau avancé",
     "duree": "30 répétitions",
-    "image": "img/defi_94.png"
+    "image": "img/defi_94.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 30 répétitions minutes.",
+    "repetitions": 20
   },
   {
     "nom": "Défi 95 - Astrologie Bélier",
@@ -757,7 +1039,10 @@
     "theme": "Astrologie Bélier",
     "objectif": "3 minutes de Course adapté au niveau intermédiaire",
     "duree": "3 minutes",
-    "image": "img/defi_95.png"
+    "image": "img/defi_95.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 3 minutes minutes.",
+    "repetitions": 17
   },
   {
     "nom": "Défi 96 - Été",
@@ -765,7 +1050,10 @@
     "theme": "Été",
     "objectif": "30 secondes de Squats adapté au niveau senior",
     "duree": "30 secondes",
-    "image": "img/defi_96.png"
+    "image": "img/defi_96.png",
+    "zone": "haut du corps",
+    "description": "Réalise cet exercice pour travailler le haut du corps pendant 30 secondes minutes.",
+    "repetitions": 14
   },
   {
     "nom": "Défi 97 - Astrologie Lion",
@@ -773,7 +1061,10 @@
     "theme": "Astrologie Lion",
     "objectif": "30 répétitions de Burpees adapté au niveau avancé",
     "duree": "30 répétitions",
-    "image": "img/defi_97.png"
+    "image": "img/defi_97.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 30 répétitions minutes.",
+    "repetitions": 24
   },
   {
     "nom": "Défi 98 - Fête de la Musique",
@@ -781,7 +1072,10 @@
     "theme": "Fête de la Musique",
     "objectif": "10 répétitions de Squats adapté au niveau débutant",
     "duree": "10 répétitions",
-    "image": "img/defi_98.png"
+    "image": "img/defi_98.png",
+    "zone": "cardio",
+    "description": "Réalise cet exercice pour travailler le cardio pendant 10 répétitions minutes.",
+    "repetitions": 24
   },
   {
     "nom": "Défi 99 - Challenge YouTube",
@@ -789,7 +1083,10 @@
     "theme": "Challenge YouTube",
     "objectif": "2 minutes de Boxe adapté au niveau intermédiaire",
     "duree": "2 minutes",
-    "image": "img/defi_99.png"
+    "image": "img/defi_99.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 2 minutes minutes.",
+    "repetitions": 27
   },
   {
     "nom": "Défi 100 - Fête de la Musique",
@@ -797,6 +1094,9 @@
     "theme": "Fête de la Musique",
     "objectif": "30 répétitions de Course adapté au niveau avancé",
     "duree": "30 répétitions",
-    "image": "img/defi_100.png"
+    "image": "img/defi_100.png",
+    "zone": "abdos",
+    "description": "Réalise cet exercice pour travailler le abdos pendant 30 répétitions minutes.",
+    "repetitions": 11
   }
 ]

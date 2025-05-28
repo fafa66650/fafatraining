@@ -7,7 +7,11 @@
       "Favoriser le jeu et le plaisir du mouvement.",
       "Éviter les efforts prolongés ou intenses.",
       "Surveiller la posture et la respiration."
-    ]
+    ],
+    "niveau": "débutant",
+    "objectifs": "santé et motricité",
+    "duree_conseillee": "15 à 30 min",
+    "description": "Ce plan est adapté à un public enfant. Objectif : santé et motricité. Durée conseillée des séances : 15 à 30 min."
   },
   "senior": {
     "titre": "Conseils pour les seniors",
@@ -17,7 +21,11 @@
       "Exercices de posture, équilibre et respiration.",
       "Ne jamais forcer ni bloquer les articulations.",
       "Étirements en fin de séance, assis ou allongé."
-    ]
+    ],
+    "niveau": "débutant à modéré",
+    "objectifs": "mobilité, santé articulaire",
+    "duree_conseillee": "15 à 30 min",
+    "description": "Ce plan est adapté à un public senior. Objectif : mobilité, santé articulaire. Durée conseillée des séances : 15 à 30 min."
   },
   "debutant": {
     "titre": "Conseils pour les débutants",

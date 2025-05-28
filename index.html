@@ -1,12 +1,59 @@
 
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="refresh" content="0; URL=home.html" />
-    <title>Redirection...</title>
-  </head>
-  <body>
-    <p>Redirection vers l'accueil FAFA Training...</p>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FAFA Training - Bienvenue</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #f83600, #f9d423);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+    .logo {
+      width: 120px;
+      height: auto;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+    }
+    .btn {
+      background-color: white;
+      color: crimson;
+      padding: 1rem 2rem;
+      border: none;
+      border-radius: 50px;
+      font-size: 1.1rem;
+      cursor: pointer;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background-color: #ffe3e3;
+    }
+  </style>
+</head>
+<body>
+  <img src="logo-fafa.png" alt="FAFA Training Logo" class="logo"/>
+  <h1>Bienvenue sur FAFA Training</h1>
+  <p>Ton coach numérique personnel : entraînement, nutrition, défis et plus encore !</p>
+  <a href="home.html" class="btn">Entrer</a>
+</body>
 </html>

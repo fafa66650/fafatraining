@@ -7,7 +7,11 @@
       "Consommer 5 portions de fruits et légumes par jour.",
       "Limiter les produits sucrés, salés et ultra-transformés.",
       "Respecter des horaires de repas réguliers."
-    ]
+    ],
+    "objectif": "général",
+    "type_alimentation": "varié et équilibré",
+    "duree_programme": "7 semaines",
+    "description": "Ce plan nutritionnel est conçu pour l'objectif de général, basé sur une alimentation varié et équilibré. Il est recommandé de le suivre pendant 7 semaines pour des résultats optimaux."
   },
   "perte_poids": {
     "titre": "Conseils pour la perte de poids",
@@ -17,7 +21,11 @@
       "Éviter les grignotages entre les repas.",
       "Boire un grand verre d'eau avant chaque repas.",
       "Manger lentement pour favoriser la satiété."
-    ]
+    ],
+    "objectif": "perte de poids",
+    "type_alimentation": "pauvre en glucides",
+    "duree_programme": "4 semaines",
+    "description": "Ce plan nutritionnel est conçu pour l'objectif de perte de poids, basé sur une alimentation pauvre en glucides. Il est recommandé de le suivre pendant 4 semaines pour des résultats optimaux."
   },
   "prise_masse": {
     "titre": "Conseils pour la prise de masse",
@@ -27,7 +35,11 @@
       "Consommer des protéines à chaque repas.",
       "Ne pas négliger les glucides complexes (pâtes, riz, etc.).",
       "S’assurer d’un bon sommeil pour la récupération."
-    ]
+    ],
+    "objectif": "prise de masse",
+    "type_alimentation": "riche en protéines",
+    "duree_programme": "7 semaines",
+    "description": "Ce plan nutritionnel est conçu pour l'objectif de prise de masse, basé sur une alimentation riche en protéines. Il est recommandé de le suivre pendant 7 semaines pour des résultats optimaux."
   },
   "sport_sante": {
     "titre": "Conseils pour le bien-être et la tonification",
@@ -37,6 +49,10 @@
       "Limiter la consommation d’alcool.",
       "S’hydrater tout au long de la journée.",
       "Préparer ses repas pour garder le contrôle."
-    ]
+    ],
+    "objectif": "entretien / tonification",
+    "type_alimentation": "équilibré",
+    "duree_programme": "6 semaines",
+    "description": "Ce plan nutritionnel est conçu pour l'objectif de entretien / tonification, basé sur une alimentation équilibré. Il est recommandé de le suivre pendant 6 semaines pour des résultats optimaux."
   }
 }
