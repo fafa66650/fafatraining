@@ -3,42 +3,25 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
+  <title>FAFA Training - Accueil</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>FAFA Training - FR</title>
-  <link rel="manifest" href="manifest.json" />
-  <link rel="icon" href="favicon.ico" />
   <link rel="stylesheet" href="style.css" />
-  <script src="script_final.js" defer></script>
 </head>
 <body>
-
-<a href="home.html" class="return-button">🔙 Accueil</a>
-<style>
-  .return-button {{
-    position: fixed;
-    top: 1rem;
-    left: 1rem;
-    background: crimson;
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: bold;
-    z-index: 1000;
-  }}
-</style>
-
-  <h1 data-i18n="welcome">Bienvenue sur FAFA Training</h1>
-  <div id="login-section">
-    <input id="username" placeholder="Prénom" />
-    <input id="access-code" placeholder="Code d'accès" />
-    <button id="login-btn">Accéder</button>
-  </div>
-  <div id="program-section" style="display:none;">
-    <h2 data-i18n="your_program">Ton programme</h2>
-    <div id="challenge-section"></div>
-    <div id="stats-section"></div>
-    <div id="program-output"></div>
-  </div>
+  <header>
+    <img src="logo-fafa.png" alt="Logo FAFA" style="height: 60px;">
+    <h1>Bienvenue sur FAFA Training</h1>
+  </header>
+  <main>
+    <p>Choisissez votre langue :</p>
+    <ul>
+      <li><a href="index.fr.html">🇫🇷 Français</a></li>
+      <li><a href="index.en.html">🇬🇧 English</a></li>
+    </ul>
+    <p><a href="home.html">➡️ Accéder à l'application</a></p>
+  </main>
+  <footer>
+    <p>FAFA Training © 2025</p>
+  </footer>
 </body>
 </html>

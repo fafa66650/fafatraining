@@ -1,106 +1,38 @@
 
 <!DOCTYPE html>
-
 <html lang="fr">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>🔥 Défis Enrichis</title>
-<link href="style.css" rel="stylesheet"/>
-<style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: #f8f8f8;
-      color: #333;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
-    .return-button {
-      position: fixed;
-      top: 1rem;
-      left: 1rem;
-      background: crimson;
-      color: white;
-      padding: 0.5rem 1rem;
-      border-radius: 50px;
-      text-decoration: none;
-      font-weight: bold;
-      z-index: 1000;
-    }
-    header {
-      background-color: #222;
-      color: #fff;
-      padding: 1rem;
-      text-align: center;
-    }
-    main {
-      flex: 1;
-      padding: 2rem;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      font-size: 0.9rem;
-      background-color: #222;
-      color: white;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Défis FAFA</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-<h1>📅 Défis du jour et plus</h1>
-<nav>
-<a href="index.html">🏠 Accueil</a>
-<a href="home.html">📋 Tableau de bord</a>
-<a href="stats.html">📊 Statistiques</a>
-<a href="conseils.html">💡 Conseils</a>
-</nav>
-</header>
+    <header>
+        <img src="logo-fafa.png" alt="Logo FAFA" style="height: 60px;">
+        <h1>🔥 Défis du Jour</h1>
+    </header>
 
-<a class="return-button" href="home.html">🔙 Accueil</a>
-<style>
-  .return-button {{
-    position: fixed;
-    top: 1rem;
-    left: 1rem;
-    background: crimson;
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: bold;
-    z-index: 1000;
-  }}
-</style>
-<a class="return-button" href="home.html">🔙 Retour</a>
+    <main>
+        <section>
+            <h2>🎯 Objectifs à accomplir</h2>
+            <ul>
+                <li><label><input type="checkbox"> Faire 30 pompes</label></li>
+                <li><label><input type="checkbox"> Courir 2 km</label></li>
+                <li><label><input type="checkbox"> Boire 2L d'eau</label></li>
+                <li><label><input type="checkbox"> Manger 5 fruits/légumes</label></li>
+                <li><label><input type="checkbox"> Méditer 5 minutes</label></li>
+            </ul>
+        </section>
 
-<main>
-<div class="return-button">
-<a href="home.html">🔙 Retour</a>
-</div>
-<section id="filters">
-<label for="filtre-niveau">Niveau :</label>
-<select id="filtre-niveau">
-<option value="">Tous</option>
-<option value="Enfant">Enfant</option>
-<option value="Débutant">Débutant</option>
-<option value="Intermédiaire">Intermédiaire</option>
-<option value="Avancé">Avancé</option>
-<option value="Senior">Senior</option>
-</select>
-</section><section id="defi-du-jour">
-<h2>🔁 Défi du jour</h2>
-<div id="daily-defi"></div>
-</section><section id="tous-les-defis">
-<h2>📚 Tous les défis</h2>
-<div id="liste-defis"></div>
-</section></main>
+        <section>
+            <h2>🏅 Récompenses</h2>
+            <p>Complète tous les défis pour débloquer un badge spécial !</p>
+        </section>
+    </main>
 
-
-<footer>
-<p>© 2025 FafaTraining — Tous droits réservés</p>
-</footer>
+    <footer>
+        <p>FAFA Training © 2025</p>
+    </footer>
 </body>
 </html>

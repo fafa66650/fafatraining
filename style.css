@@ -1,75 +1,58 @@
 
 body {
-  font-family: 'Roboto', sans-serif;
-  margin: 0;
-  background: linear-gradient(to right, #fceabb, #f8b500);
-  color: #333;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #f4f7f9, #e0f7fa);
+    color: #333;
 }
+
 header {
-  background-color: #ff6f61;
-  color: white;
-  padding: 1rem;
-  display: flex;
-  align-items: center;
-  gap: 1rem;
+    background: #0097a7;
+    color: white;
+    padding: 1rem;
+    text-align: center;
 }
-.logo {
-  height: 40px;
+
+header img {
+    vertical-align: middle;
+    margin-right: 10px;
 }
+
 main {
-  flex: 1;
-  padding: 1rem;
-  max-width: 900px;
-  margin: 0 auto;
+    padding: 2rem;
 }
-h1, h2 {
-  font-weight: 700;
-}
+
 section {
-  margin-bottom: 2rem;
+    background: white;
+    padding: 1rem 2rem;
+    margin-bottom: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
+
+h2 {
+    color: #00796b;
+}
+
 label {
-  font-weight: 600;
+    margin-right: 1rem;
+    font-weight: 500;
 }
-input, select, button {
-  padding: 0.5rem;
-  margin-top: 0.3rem;
-  font-size: 1rem;
-  border-radius: 4px;
-  border: 1px solid #ccc;
+
+ul {
+    list-style: disc;
+    padding-left: 2rem;
 }
-button {
-  background-color: #ff6f61;
-  color: white;
-  cursor: pointer;
-  margin-top: 1rem;
-  border: none;
-  transition: background-color 0.3s ease;
-}
-button:hover {
-  background-color: #e65b50;
-}
-#program-output {
-  margin-top: 1rem;
-  background: #fff8f5;
-  padding: 1rem;
-  border-radius: 6px;
-  box-shadow: 0 0 10px rgb(255 111 97 / 0.3);
-}
+
 footer {
-  background-color: #ff6f61;
-  color: white;
-  text-align: center;
-  padding: 1rem;
+    text-align: center;
+    padding: 1rem;
+    background: #eee;
+    color: #666;
 }
-@media (max-width: 600px) {
-  main {
-    padding: 0.5rem;
-  }
-  input, select, button {
-    width: 100%;
-  }
+
+input[type="checkbox"] {
+    margin-right: 0.5rem;
+    transform: scale(1.2);
 }

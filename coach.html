@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Espace Coach</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="logo-fafa.png" alt="Logo FAFA Training" style="height: 60px;">
+        <h1>Espace Coach</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>👥 Profils Utilisateurs</h2>
+            <form id="form-ajout">
+                <input type="text" id="nom-profil" placeholder="Nom du profil" required>
+                <button type="submit">Ajouter</button>
+            </form>
+            <ul id="liste-profils"></ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>FAFA Training © 2025</p>
+    </footer>
+
+    <script>
+        const form = document.getElementById('form-ajout');
+        const liste = document.getElementById('liste-profils');
+
+        form.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const nom = document.getElementById('nom-profil').value.trim();
+            if (nom) {
+                const li = document.createElement('li');
+                li.textContent = nom;
+                liste.appendChild(li);
+                document.getElementById('nom-profil').value = '';
+            }
+        });
+    </script>
+</body>
+</html>

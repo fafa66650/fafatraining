@@ -2,104 +2,29 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>FAFA TRAINING - Accueil</title>
-  <link rel="stylesheet" href="style.css" />
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(to bottom, #f4f4f4, #e0e0e0);
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-    }
-    header {
-      background-color: #222;
-      color: #fff;
-      padding: 2rem;
-      text-align: center;
-    }
-    header img {
-      max-width: 80px;
-      display: block;
-      margin: 0 auto 1rem;
-    }
-    h1 {
-      margin: 0;
-    }
-    main {
-      flex: 1;
-      padding: 2rem;
-      text-align: center;
-    }
-    main p {
-      font-size: 1.2rem;
-      max-width: 600px;
-      margin: auto;
-    }
-    nav {
-      margin-top: 2rem;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 1rem;
-    }
-    nav a {
-      background-color: #007bff;
-      color: white;
-      padding: 1rem 1.5rem;
-      border-radius: 50px;
-      text-decoration: none;
-      transition: background 0.3s;
-      font-weight: bold;
-    }
-    nav a:hover {
-      background-color: #0056b3;
-    }
-    .return-button {
-      position: fixed;
-      top: 1rem;
-      left: 1rem;
-      background: crimson;
-      color: white;
-      padding: 0.5rem 1rem;
-      border-radius: 50px;
-      text-decoration: none;
-      font-weight: bold;
-      z-index: 1000;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      font-size: 0.9rem;
-      background-color: #222;
-      color: white;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>Accueil - FAFA Training</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <a href="dashboard.html" class="return-button">🔙 Retour</a>
-  <header>
-    <img src="logo-fafa.png" alt="Logo FAFA TRAINING" />
-    <h1>Bienvenue sur FAFA TRAINING</h1>
-    <p>Ta plateforme de coaching personnalisée 💪</p>
-  </header>
-  <main>
-    <p>Choisis une action ci-dessous pour commencer :</p>
-    <nav>
-      <a href="dashboard.html">🏁 Tableau de Bord</a>
-      <a href="interface.html">⚙️ Générer un Programme</a>
-      <a href="quiz.html">📝 Quiz / Formulaire</a>
-      <a href="conseils.html">📚 Conseils & Nutrition</a>
-      <a href="defis.html">🔥 Défis Enrichis</a>
-      <a href="stats.html">📈 Suivi Statistiques</a>
-      <a href="index.html">🏠 Accueil Principal</a>
-    </nav>
-  </main>
-  <footer>
-    &copy; 2025 FAFA TRAINING - Application responsive, complète et fun 💥
-  </footer>
+    <header>
+        <img src="logo-fafa.png" alt="Logo FAFA Training" style="height: 60px;">
+        <h1>Bienvenue sur FAFA Training</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Navigation</h2>
+            <ul>
+                <li><a href="quiz.html">🔍 Démarrer le Quiz</a></li>
+                <li><a href="programme.html">📋 Voir mon Programme</a></li>
+                <li><a href="coach.html">👥 Espace Coach</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>FAFA Training © 2025</p>
+    </footer>
 </body>
 </html>

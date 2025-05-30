@@ -1,125 +1,33 @@
 
 <!DOCTYPE html>
-
 <html lang="fr">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>📝 Formulaire / Quiz</title>
-<link href="style.css" rel="stylesheet"/>
-<style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: #f8f8f8;
-      color: #333;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
-    .return-button {
-      position: fixed;
-      top: 1rem;
-      left: 1rem;
-      background: crimson;
-      color: white;
-      padding: 0.5rem 1rem;
-      border-radius: 50px;
-      text-decoration: none;
-      font-weight: bold;
-      z-index: 1000;
-    }
-    header {
-      background-color: #222;
-      color: #fff;
-      padding: 1rem;
-      text-align: center;
-    }
-    main {
-      flex: 1;
-      padding: 2rem;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      font-size: 0.9rem;
-      background-color: #222;
-      color: white;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>Quiz FAFA</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-<h1>📝 Questionnaire personnalisé</h1>
-<nav>
-<a href="index.html">🏠 Accueil</a>
-<a href="home.html">📋 Tableau de bord</a>
-<a href="stats.html">📊 Statistiques</a>
-<a href="conseils.html">💡 Conseils</a>
-</nav>
-</header>
+    <header>
+        <img src="logo-fafa.png" alt="Logo FAFA Training" style="height: 60px;">
+        <h1>Définis ton Profil</h1>
+    </header>
 
-<a class="return-button" href="home.html">🔙 Accueil</a>
-<style>
-  .return-button {{
-    position: fixed;
-    top: 1rem;
-    left: 1rem;
-    background: crimson;
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 50px;
-    text-decoration: none;
-    font-weight: bold;
-    z-index: 1000;
-  }}
-</style>
-<a class="return-button" href="home.html">🔙 Retour</a>
+    <main>
+        <form id="quiz-form" action="programme.html" method="get">
+            <section>
+                <h2>Objectif</h2>
+                <label><input type="checkbox" name="badge" value="cardio"> Perte de poids (Cardio)</label><br>
+                <label><input type="checkbox" name="badge" value="force"> Prise de masse (Force)</label><br>
+                <label><input type="checkbox" name="badge" value="fun"> M'amuser (Fun)</label>
+            </section>
+            <section>
+                <button type="submit">Générer mon programme</button>
+            </section>
+        </form>
+    </main>
 
-<main>
-<div class="return-button">
-<a href="home.html">🔙 Retour</a>
-</div>
-<form id="quiz-form">
-<label for="nom">Nom :</label>
-<input id="nom" name="nom" required="" type="text"/>
-<label for="age">Âge :</label>
-<input id="age" max="100" min="5" name="age" required="" type="number"/>
-<label for="poids">Poids (kg) :</label>
-<input id="poids" name="poids" required="" type="number"/>
-<label for="taille">Taille (cm) :</label>
-<input id="taille" name="taille" required="" type="number"/>
-<label for="objectif">Objectif :</label>
-<select id="objectif" multiple="" name="objectif">
-<option value="perte">Perte de poids</option>
-<option value="muscle">Prise de muscle</option>
-<option value="entretien">Entretien</option>
-<option value="souplesse">Souplesse</option>
-</select>
-<label for="niveau">Niveau :</label>
-<select id="niveau" name="niveau">
-<option value="debutant">Débutant</option>
-<option value="intermediaire">Intermédiaire</option>
-<option value="avance">Avancé</option>
-</select>
-<label for="frequence">Séances par semaine :</label>
-<input id="frequence" max="7" min="1" name="frequence" required="" type="number"/>
-<label for="materiel">Matériel disponible :</label>
-<select id="materiel" multiple="" name="materiel">
-<option value="haltères">Haltères</option>
-<option value="corde">Corde à sauter</option>
-<option value="roue">Roue abdo</option>
-<option value="échelle">Échelle</option>
-<option value="cone">Cônes</option>
-<option value="ball">Medicine Ball</option>
-<option value="battle">Battle rope</option>
-</select>
-<button type="submit">Générer mon programme</button>
-</form></main>
-
-
-<footer>
-<p>© 2025 FafaTraining — Tous droits réservés</p>
-</footer>
+    <footer>
+        <p>FAFA Training © 2025</p>
+    </footer>
 </body>
 </html>

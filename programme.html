@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Programme Intelligent FAFA</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="logo-fafa.png" alt="Logo FAFA Training" style="height: 60px;">
+    <h1>Générateur de Programme</h1>
+  </header>
+
+  <main>
+    <form id="filtre-form">
+      <section>
+        <h2>📋 Filtres Personnalisés</h2>
+
+        <h3>🎚 Niveau</h3>
+        <label><input type="checkbox" name="niveau" value="débutant"> Débutant</label>
+        <label><input type="checkbox" name="niveau" value="intermédiaire"> Intermédiaire</label>
+        <label><input type="checkbox" name="niveau" value="avancé"> Avancé</label>
+
+        <h3>🔧 Matériel</h3>
+        <label><input type="checkbox" name="materiel" value="aucun"> Aucun</label>
+        <label><input type="checkbox" name="materiel" value="tapis"> Tapis</label>
+        <label><input type="checkbox" name="materiel" value="haltères"> Haltères</label>
+        <label><input type="checkbox" name="materiel" value="barre"> Barre</label>
+        <label><input type="checkbox" name="materiel" value="corde"> Corde</label>
+
+        <h3>🎯 Zone ciblée</h3>
+        <label><input type="checkbox" name="zone" value="jambes"> Jambes</label>
+        <label><input type="checkbox" name="zone" value="abdos"> Abdos</label>
+        <label><input type="checkbox" name="zone" value="dos"> Dos</label>
+        <label><input type="checkbox" name="zone" value="poitrine"> Poitrine</label>
+        <label><input type="checkbox" name="zone" value="full body"> Full Body</label>
+
+        <h3>⚡ Type</h3>
+        <label><input type="checkbox" name="categorie" value="cardio"> Cardio</label>
+        <label><input type="checkbox" name="categorie" value="force"> Force</label>
+        <label><input type="checkbox" name="categorie" value="gainage"> Gainage</label>
+        <label><input type="checkbox" name="categorie" value="mobilité"> Mobilité</label>
+        <label><input type="checkbox" name="categorie" value="explosivité"> Explosivité</label>
+
+        <h3>🏅 Sport</h3>
+        <label><input type="checkbox" name="sport" value="boxe"> Boxe</label>
+        <label><input type="checkbox" name="sport" value="course"> Course</label>
+        <label><input type="checkbox" name="sport" value="rugby"> Rugby</label>
+        <label><input type="checkbox" name="sport" value="fitness"> Fitness</label>
+
+        <h3>👥 Public</h3>
+        <label><input type="checkbox" name="public" value="homme"> Homme</label>
+        <label><input type="checkbox" name="public" value="femme"> Femme</label>
+        <label><input type="checkbox" name="public" value="ado"> Ado</label>
+        <label><input type="checkbox" name="public" value="senior"> Senior</label>
+
+        <br><br>
+        <button type="submit">🔄 Générer Programme</button>
+      </section>
+    </form>
+
+    <section>
+      <h2>📌 Résultats</h2>
+      <ul id="programme-sportif"></ul>
+    </section>
+  
+<section>
+  <h2>🥗 Plan Nutrition</h2>
+  <label for="objectif-nutrition">Choisissez votre objectif :</label>
+  <select id="objectif-nutrition">
+    <option value="">--Sélectionnez--</option>
+    <option value="prise de masse">Prise de masse</option>
+    <option value="sèche">Sèche</option>
+    <option value="maintien">Maintien</option>
+  </select>
+  <div id="programme-nutrition"></div>
+</section>
+<script src="script_nutrition.js"></script>
+
+</main>
+
+  <footer>
+    <p>FAFA Training © 2025</p>
+  </footer>
+
+  <script src="script_programme.js"></script>
+</body>
+</html>
