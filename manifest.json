@@ -1,9 +1,9 @@
 {
-  "name": "FAFA Training App",
+  "name": "FAFA Training",
   "short_name": "FAFA",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
-  "theme_color": "#0d6efd",
+  "theme_color": "#0ea5e9",
   "background_color": "#ffffff",
   "icons": [
     {

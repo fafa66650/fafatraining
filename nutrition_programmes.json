@@ -9,8 +9,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np2",
@@ -22,8 +21,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np3",
@@ -35,8 +33,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np4",
@@ -48,8 +45,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np5",
@@ -61,8 +57,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np6",
@@ -74,8 +69,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np7",
@@ -87,8 +81,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np8",
@@ -100,8 +93,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np9",
@@ -113,8 +105,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np10",
@@ -126,8 +117,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np11",
@@ -139,8 +129,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np12",
@@ -152,8 +141,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np13",
@@ -165,8 +153,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np14",
@@ -178,8 +165,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np15",
@@ -191,8 +177,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np16",
@@ -204,8 +189,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np17",
@@ -217,8 +201,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np18",
@@ -230,8 +213,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np19",
@@ -243,8 +225,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np20",
@@ -256,8 +237,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np21",
@@ -269,8 +249,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "enfant"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np22",
@@ -282,8 +261,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np23",
@@ -295,8 +273,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np24",
@@ -308,8 +285,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np25",
@@ -321,8 +297,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np26",
@@ -334,8 +309,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np27",
@@ -347,8 +321,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np28",
@@ -360,8 +333,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np29",
@@ -373,8 +345,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np30",
@@ -386,8 +357,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np31",
@@ -399,8 +369,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np32",
@@ -412,8 +381,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np33",
@@ -425,8 +393,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np34",
@@ -438,8 +405,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np35",
@@ -451,8 +417,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np36",
@@ -464,8 +429,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np37",
@@ -477,8 +441,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np38",
@@ -490,8 +453,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np39",
@@ -503,8 +465,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np40",
@@ -516,8 +477,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np41",
@@ -529,8 +489,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np42",
@@ -542,8 +501,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np43",
@@ -555,8 +513,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np44",
@@ -568,8 +525,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np45",
@@ -581,8 +537,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "enfant"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np46",
@@ -594,8 +549,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np47",
@@ -607,8 +561,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np48",
@@ -620,8 +573,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np49",
@@ -633,8 +585,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np50",
@@ -646,8 +597,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np51",
@@ -659,8 +609,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np52",
@@ -672,8 +621,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np53",
@@ -685,8 +633,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np54",
@@ -698,8 +645,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np55",
@@ -711,8 +657,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np56",
@@ -724,8 +669,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np57",
@@ -737,8 +681,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np58",
@@ -750,8 +693,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np59",
@@ -763,8 +705,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np60",
@@ -776,8 +717,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np61",
@@ -789,8 +729,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "enfant"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np62",
@@ -802,8 +741,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np63",
@@ -815,8 +753,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np64",
@@ -828,8 +765,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np65",
@@ -841,8 +777,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np66",
@@ -854,8 +789,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np67",
@@ -867,8 +801,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np68",
@@ -880,8 +813,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np69",
@@ -893,8 +825,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np70",
@@ -906,8 +837,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np71",
@@ -919,8 +849,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np72",
@@ -932,8 +861,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np73",
@@ -945,8 +873,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np74",
@@ -958,8 +885,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np75",
@@ -971,8 +897,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np76",
@@ -984,8 +909,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np77",
@@ -997,8 +921,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np78",
@@ -1010,8 +933,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np79",
@@ -1023,8 +945,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np80",
@@ -1036,8 +957,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np81",
@@ -1049,8 +969,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np82",
@@ -1062,8 +981,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np83",
@@ -1075,8 +993,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np84",
@@ -1088,8 +1005,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np85",
@@ -1101,8 +1017,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np86",
@@ -1114,8 +1029,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np87",
@@ -1127,8 +1041,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np88",
@@ -1140,8 +1053,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np89",
@@ -1153,8 +1065,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np90",
@@ -1166,8 +1077,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np91",
@@ -1179,8 +1089,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np92",
@@ -1192,8 +1101,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np93",
@@ -1205,8 +1113,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np94",
@@ -1218,8 +1125,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np95",
@@ -1231,8 +1137,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np96",
@@ -1244,8 +1149,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np97",
@@ -1257,8 +1161,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "enfant"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np98",
@@ -1270,8 +1173,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np99",
@@ -1283,8 +1185,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np100",
@@ -1296,8 +1197,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np101",
@@ -1309,8 +1209,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np102",
@@ -1322,8 +1221,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np103",
@@ -1335,8 +1233,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np104",
@@ -1348,8 +1245,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np105",
@@ -1361,8 +1257,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "enfant"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np106",
@@ -1374,8 +1269,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np107",
@@ -1387,8 +1281,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np108",
@@ -1400,8 +1293,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np109",
@@ -1413,8 +1305,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np110",
@@ -1426,8 +1317,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np111",
@@ -1439,8 +1329,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np112",
@@ -1452,8 +1341,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np113",
@@ -1465,8 +1353,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np114",
@@ -1478,8 +1365,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np115",
@@ -1491,8 +1377,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np116",
@@ -1504,8 +1389,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np117",
@@ -1517,8 +1401,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np118",
@@ -1530,8 +1413,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np119",
@@ -1543,8 +1425,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np120",
@@ -1556,8 +1437,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np121",
@@ -1569,8 +1449,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "enfant"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np122",
@@ -1582,8 +1461,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "adulte"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np123",
@@ -1595,8 +1473,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np124",
@@ -1608,8 +1485,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "compétiteur"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np125",
@@ -1621,8 +1497,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "enfant"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np126",
@@ -1634,8 +1509,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "adulte"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np127",
@@ -1647,8 +1521,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np128",
@@ -1660,8 +1533,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np129",
@@ -1673,8 +1545,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Amandes + pomme",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np130",
@@ -1686,8 +1557,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np131",
@@ -1699,8 +1569,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "senior"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np132",
@@ -1712,8 +1581,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "compétiteur"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np133",
@@ -1725,8 +1593,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "enfant"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np134",
@@ -1738,8 +1605,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np135",
@@ -1751,8 +1617,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "1.5L d'eau minérale",
-    "public": "senior"
+    "hydratation": "1.5L d'eau minérale"
   },
   {
     "id": "np136",
@@ -1764,8 +1629,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np137",
@@ -1777,8 +1641,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Infusion menthe-citron après repas",
-    "public": "enfant"
+    "hydratation": "Infusion menthe-citron après repas"
   },
   {
     "id": "np138",
@@ -1790,8 +1653,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np139",
@@ -1803,8 +1665,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Barre protéinée maison",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np140",
@@ -1816,8 +1677,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np141",
@@ -1829,8 +1689,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Barre protéinée maison",
     "diner": "Soupe de lentilles + pain complet",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "enfant"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np142",
@@ -1842,8 +1701,7 @@
     "dejeuner": "Saumon + riz complet + brocolis",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "adulte"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np143",
@@ -1855,8 +1713,7 @@
     "dejeuner": "Poulet grillé + quinoa + légumes vapeur",
     "collation": "Amandes + pomme",
     "diner": "Poisson blanc + légumes rôtis",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "senior"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "id": "np144",
@@ -1868,8 +1725,7 @@
     "dejeuner": "Omelette légumes + patate douce + salade",
     "collation": "Yaourt grec + fruits secs",
     "diner": "Tofu grillé + riz sauvage + épinards",
-    "hydratation": "Boisson électrolyte après effort",
-    "public": "compétiteur"
+    "hydratation": "Boisson électrolyte après effort"
   },
   {
     "objectif": "performance",
@@ -1882,8 +1738,7 @@
       "collation": "Snack végétarien",
       "diner": "Dîner végétarien",
       "hydratation": "2L d'eau"
-    },
-    "public": "enfant"
+    }
   },
   {
     "objectif": "performance",
@@ -1896,8 +1751,7 @@
       "collation": "Snack végétalien",
       "diner": "Dîner végétalien",
       "hydratation": "2L d'eau"
-    },
-    "public": "adulte"
+    }
   },
   {
     "objectif": "performance",
@@ -1910,8 +1764,7 @@
       "collation": "Snack végétarien",
       "diner": "Dîner végétarien",
       "hydratation": "2L d'eau"
-    },
-    "public": "senior"
+    }
   },
   {
     "objectif": "performance",
@@ -1924,8 +1777,7 @@
       "collation": "Snack végétalien",
       "diner": "Dîner végétalien",
       "hydratation": "2L d'eau"
-    },
-    "public": "compétiteur"
+    }
   },
   {
     "objectif": "performance",
@@ -1938,8 +1790,7 @@
       "collation": "Snack végétarien",
       "diner": "Dîner végétarien",
       "hydratation": "2L d'eau"
-    },
-    "public": "enfant"
+    }
   },
   {
     "objectif": "performance",
@@ -1952,7 +1803,6 @@
       "collation": "Snack végétalien",
       "diner": "Dîner végétalien",
       "hydratation": "2L d'eau"
-    },
-    "public": "adulte"
+    }
   }
 ]
