@@ -1,50 +1,422 @@
-{
-  "enfant": {
-    "titre": "Conseils pour les enfants",
-    "conseils": [
-      "Pratique ludique et sans charge.",
-      "Hydratation toutes les 15 minutes.",
-      "Favoriser le jeu et le plaisir du mouvement.",
-      "Éviter les efforts prolongés ou intenses.",
-      "Surveiller la posture et la respiration."
-    ],
-    "niveau": "débutant",
-    "objectifs": "santé et motricité",
-    "duree_conseillee": "15 à 30 min",
-    "description": "Ce plan est adapté à un public enfant. Objectif : santé et motricité. Durée conseillée des séances : 15 à 30 min."
+[
+  {
+    "id": "cpub1",
+    "type": "hygiène de vie",
+    "profil": "enfant",
+    "objectif": "bien-être",
+    "texte": "Conseil public 1 : Pensez à vous hydrater régulièrement."
   },
-  "senior": {
-    "titre": "Conseils pour les seniors",
-    "conseils": [
-      "Échauffement doux et progressif.",
-      "Privilégier les mouvements lents et contrôlés.",
-      "Exercices de posture, équilibre et respiration.",
-      "Ne jamais forcer ni bloquer les articulations.",
-      "Étirements en fin de séance, assis ou allongé."
-    ],
-    "niveau": "débutant à modéré",
-    "objectifs": "mobilité, santé articulaire",
-    "duree_conseillee": "15 à 30 min",
-    "description": "Ce plan est adapté à un public senior. Objectif : mobilité, santé articulaire. Durée conseillée des séances : 15 à 30 min."
+  {
+    "id": "cpub2",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "bien-être",
+    "texte": "Conseil public 2 : Pensez à dormir au moins 7h par nuit."
   },
-  "debutant": {
-    "titre": "Conseils pour les débutants",
-    "conseils": [
-      "Commencer doucement et écouter son corps.",
-      "Respecter les phases d'échauffement et de récupération.",
-      "Faire les exercices sans chercher la performance.",
-      "Respirer régulièrement : j’inspire en préparant, j’expire en poussant.",
-      "Ne pas hésiter à faire des pauses."
-    ]
+  {
+    "id": "cpub3",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "performance",
+    "texte": "Conseil public 3 : Pensez à manger équilibré et varié."
   },
-  "confirme": {
-    "titre": "Conseils pour les confirmés",
-    "conseils": [
-      "Augmenter progressivement l’intensité.",
-      "Respecter un jour de repos toutes les 3-4 séances.",
-      "Travailler la technique avant la vitesse.",
-      "Faire un retour au calme systématique.",
-      "Hydratation + alimentation équilibrée."
-    ]
+  {
+    "id": "cpub4",
+    "type": "motivation",
+    "profil": "enfant",
+    "objectif": "bien-être",
+    "texte": "Conseil public 4 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub5",
+    "type": "récupération",
+    "profil": "enfant",
+    "objectif": "bien-être",
+    "texte": "Conseil public 5 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub6",
+    "type": "santé",
+    "profil": "enfant",
+    "objectif": "forme",
+    "texte": "Conseil public 6 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub7",
+    "type": "motivation",
+    "profil": "senior",
+    "objectif": "forme",
+    "texte": "Conseil public 7 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub8",
+    "type": "motivation",
+    "profil": "adulte",
+    "objectif": "forme",
+    "texte": "Conseil public 8 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub9",
+    "type": "motivation",
+    "profil": "adulte",
+    "objectif": "forme",
+    "texte": "Conseil public 9 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub10",
+    "type": "motivation",
+    "profil": "enfant",
+    "objectif": "forme",
+    "texte": "Conseil public 10 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub11",
+    "type": "santé",
+    "profil": "senior",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 11 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub12",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 12 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub13",
+    "type": "hygiène de vie",
+    "profil": "senior",
+    "objectif": "forme",
+    "texte": "Conseil public 13 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub14",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 14 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub15",
+    "type": "santé",
+    "profil": "enfant",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 15 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub16",
+    "type": "santé",
+    "profil": "compétiteur",
+    "objectif": "forme",
+    "texte": "Conseil public 16 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub17",
+    "type": "hygiène de vie",
+    "profil": "compétiteur",
+    "objectif": "bien-être",
+    "texte": "Conseil public 17 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub18",
+    "type": "santé",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 18 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub19",
+    "type": "récupération",
+    "profil": "senior",
+    "objectif": "bien-être",
+    "texte": "Conseil public 19 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub20",
+    "type": "récupération",
+    "profil": "adulte",
+    "objectif": "bien-être",
+    "texte": "Conseil public 20 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub21",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "bien-être",
+    "texte": "Conseil public 21 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub22",
+    "type": "santé",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 22 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub23",
+    "type": "récupération",
+    "profil": "enfant",
+    "objectif": "performance",
+    "texte": "Conseil public 23 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub24",
+    "type": "santé",
+    "profil": "enfant",
+    "objectif": "forme",
+    "texte": "Conseil public 24 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub25",
+    "type": "santé",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 25 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub26",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 26 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub27",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "bien-être",
+    "texte": "Conseil public 27 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub28",
+    "type": "hygiène de vie",
+    "profil": "senior",
+    "objectif": "forme",
+    "texte": "Conseil public 28 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub29",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 29 : Pensez à vous échauffer avant chaque séance."
+  },
+  {
+    "id": "cpub30",
+    "type": "santé",
+    "profil": "compétiteur",
+    "objectif": "bien-être",
+    "texte": "Conseil public 30 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub31",
+    "type": "santé",
+    "profil": "adulte",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 31 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub32",
+    "type": "récupération",
+    "profil": "adulte",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 32 : Pensez à vous échauffer avant chaque séance."
+  },
+  {
+    "id": "cpub33",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "bien-être",
+    "texte": "Conseil public 33 : Pensez à vous échauffer avant chaque séance."
+  },
+  {
+    "id": "cpub34",
+    "type": "santé",
+    "profil": "adulte",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 34 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub35",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "performance",
+    "texte": "Conseil public 35 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub36",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 36 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub37",
+    "type": "récupération",
+    "profil": "senior",
+    "objectif": "forme",
+    "texte": "Conseil public 37 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub38",
+    "type": "motivation",
+    "profil": "senior",
+    "objectif": "forme",
+    "texte": "Conseil public 38 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub39",
+    "type": "santé",
+    "profil": "senior",
+    "objectif": "performance",
+    "texte": "Conseil public 39 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub40",
+    "type": "santé",
+    "profil": "senior",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 40 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub41",
+    "type": "récupération",
+    "profil": "adulte",
+    "objectif": "performance",
+    "texte": "Conseil public 41 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub42",
+    "type": "récupération",
+    "profil": "enfant",
+    "objectif": "performance",
+    "texte": "Conseil public 42 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub43",
+    "type": "motivation",
+    "profil": "enfant",
+    "objectif": "performance",
+    "texte": "Conseil public 43 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub44",
+    "type": "santé",
+    "profil": "adulte",
+    "objectif": "performance",
+    "texte": "Conseil public 44 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub45",
+    "type": "motivation",
+    "profil": "enfant",
+    "objectif": "forme",
+    "texte": "Conseil public 45 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub46",
+    "type": "santé",
+    "profil": "enfant",
+    "objectif": "forme",
+    "texte": "Conseil public 46 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub47",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 47 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub48",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "bien-être",
+    "texte": "Conseil public 48 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub49",
+    "type": "santé",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil public 49 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub50",
+    "type": "hygiène de vie",
+    "profil": "adulte",
+    "objectif": "forme",
+    "texte": "Conseil public 50 : Pensez à vous échauffer avant chaque séance."
+  },
+  {
+    "id": "cpub51",
+    "type": "santé",
+    "profil": "enfant",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 51 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub52",
+    "type": "motivation",
+    "profil": "adulte",
+    "objectif": "forme",
+    "texte": "Conseil public 52 : Pensez à vous échauffer avant chaque séance."
+  },
+  {
+    "id": "cpub53",
+    "type": "récupération",
+    "profil": "enfant",
+    "objectif": "forme",
+    "texte": "Conseil public 53 : Pensez à manger équilibré et varié."
+  },
+  {
+    "id": "cpub54",
+    "type": "santé",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil public 54 : Pensez à vous hydrater régulièrement."
+  },
+  {
+    "id": "cpub55",
+    "type": "santé",
+    "profil": "senior",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 55 : Pensez à vous échauffer avant chaque séance."
+  },
+  {
+    "id": "cpub56",
+    "type": "santé",
+    "profil": "adulte",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 56 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub57",
+    "type": "hygiène de vie",
+    "profil": "enfant",
+    "objectif": "perte de poids",
+    "texte": "Conseil public 57 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub58",
+    "type": "motivation",
+    "profil": "adulte",
+    "objectif": "forme",
+    "texte": "Conseil public 58 : Pensez à respirer profondément pour réduire le stress."
+  },
+  {
+    "id": "cpub59",
+    "type": "hygiène de vie",
+    "profil": "enfant",
+    "objectif": "bien-être",
+    "texte": "Conseil public 59 : Pensez à dormir au moins 7h par nuit."
+  },
+  {
+    "id": "cpub60",
+    "type": "motivation",
+    "profil": "adulte",
+    "objectif": "performance",
+    "texte": "Conseil public 60 : Pensez à dormir au moins 7h par nuit."
   }
-}
+]

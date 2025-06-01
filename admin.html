@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin FAFA</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🔐 Panneau Admin FAFA</h1>
+
+  <section>
+    <h2>➕ Ajouter un exercice</h2>
+    <form id="formExercice">
+      <input type="text" placeholder="Nom" name="nom" required>
+      <input type="text" placeholder="Zone" name="zone">
+      <input type="text" placeholder="Niveau" name="niveau">
+      <input type="text" placeholder="Objectif" name="objectif">
+      <input type="text" placeholder="Matériel" name="materiel">
+      <input type="text" placeholder="Âge" name="age">
+      <button type="submit">Ajouter</button>
+    </form>
+    <div id="listeExercices"></div>
+  </section>
+
+  <section>
+    <h2>🍽 Ajouter un plan nutritionnel</h2>
+    <form id="formNutrition">
+      <input type="text" placeholder="Objectif" name="objectif">
+      <input type="text" placeholder="Âge" name="age">
+      <input type="text" placeholder="Sexe" name="sexe">
+      <input type="text" placeholder="Sport" name="sport">
+      <input type="text" placeholder="Petit-déjeuner" name="petit_dejeuner">
+      <input type="text" placeholder="Déjeuner" name="dejeuner">
+      <input type="text" placeholder="Collation" name="collation">
+      <input type="text" placeholder="Dîner" name="diner">
+      <input type="text" placeholder="Hydratation" name="hydratation">
+      <button type="submit">Ajouter</button>
+    </form>
+    <div id="listeNutrition"></div>
+  </section>
+
+  <script src="script_admin.js"></script>
+</body>
+</html>

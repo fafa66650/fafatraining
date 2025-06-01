@@ -1,52 +1,282 @@
-{
-  "musculation": {
-    "titre": "Conseils pour la musculation / CrossFit",
-    "conseils": [
-      "Respecte un cycle d'entraînement (ex. : 4 à 6 semaines).",
-      "Fais au minimum un jour OFF tous les 3 jours.",
-      "Progression max : +5% de charge par semaine.",
-      "Hydrate-toi bien avant, pendant et après la séance.",
-      "Préserve ton dos : gainage + posture technique."
-    ]
+[
+  {
+    "id": "ccomp1",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 1 : Tenez un journal d’entraînement."
   },
-  "course": {
-    "titre": "Conseils pour la course à pied",
-    "conseils": [
-      "Varie tes entraînements : allure, fractionné, récup.",
-      "Adapte ton équipement (chaussures, terrain).",
-      "Pense au travail de gainage et à la foulée.",
-      "Hydrate-toi toutes les 20 minutes en course longue.",
-      "Posture droite, regard loin devant."
-    ]
+  {
+    "id": "ccomp2",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 2 : Évitez les séances intenses les jours de mauvaise récupération."
   },
-  "collectifs": {
-    "titre": "Conseils pour les sports collectifs",
-    "conseils": [
-      "Travaille ton agilité : appuis, déplacements courts.",
-      "Ne néglige pas la récupération : froid, étirements.",
-      "Prévention blessure : proprioception, gainage.",
-      "Alterne effort court / récup rapide (type HIIT).",
-      "Échauffement spécifique à ton poste ou ton rôle."
-    ]
+  {
+    "id": "ccomp3",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 3 : Pensez à l’auto-massage après les séances."
   },
-  "souplesse": {
-    "titre": "Conseils pour la gymnastique / danse / arts martiaux",
-    "conseils": [
-      "Souffle lent et profond pour chaque mouvement.",
-      "Posture stable avant d’engager la mobilité.",
-      "Travailler l’équilibre + gainage du tronc.",
-      "Préparer les articulations (mobilisation articulaire douce).",
-      "Ne jamais forcer un étirement, rester fluide."
-    ]
+  {
+    "id": "ccomp4",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 4 : Pensez à l’auto-massage après les séances."
   },
-  "cyclisme": {
-    "titre": "Conseils pour le cyclisme",
-    "conseils": [
-      "Travaille ta cadence : pédalage souple à 90rpm.",
-      "Hydratation très régulière (toutes les 15-20min).",
-      "Soigne ta position : selle, dos, poignets alignés.",
-      "Ajoute des sprints courts pour varier l’effort.",
-      "Nutrition riche en glucides après la sortie."
-    ]
+  {
+    "id": "ccomp5",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 5 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp6",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 6 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp7",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 7 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp8",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 8 : Visualisez vos objectifs chaque matin."
+  },
+  {
+    "id": "ccomp9",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 9 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp10",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 10 : Visualisez vos objectifs chaque matin."
+  },
+  {
+    "id": "ccomp11",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 11 : Visualisez vos objectifs chaque matin."
+  },
+  {
+    "id": "ccomp12",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 12 : Visualisez vos objectifs chaque matin."
+  },
+  {
+    "id": "ccomp13",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 13 : Tenez un journal d’entraînement."
+  },
+  {
+    "id": "ccomp14",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 14 : Tenez un journal d’entraînement."
+  },
+  {
+    "id": "ccomp15",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 15 : Tenez un journal d’entraînement."
+  },
+  {
+    "id": "ccomp16",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 16 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp17",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 17 : Visualisez vos objectifs chaque matin."
+  },
+  {
+    "id": "ccomp18",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 18 : Tenez un journal d’entraînement."
+  },
+  {
+    "id": "ccomp19",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 19 : Planifiez vos séances avec rigueur."
+  },
+  {
+    "id": "ccomp20",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 20 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp21",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 21 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp22",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 22 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp23",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 23 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp24",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 24 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp25",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 25 : Tenez un journal d’entraînement."
+  },
+  {
+    "id": "ccomp26",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 26 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp27",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 27 : Planifiez vos séances avec rigueur."
+  },
+  {
+    "id": "ccomp28",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 28 : Planifiez vos séances avec rigueur."
+  },
+  {
+    "id": "ccomp29",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 29 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp30",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 30 : Planifiez vos séances avec rigueur."
+  },
+  {
+    "id": "ccomp31",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 31 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp32",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 32 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp33",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 33 : Planifiez vos séances avec rigueur."
+  },
+  {
+    "id": "ccomp34",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 34 : Tenez un journal d’entraînement."
+  },
+  {
+    "id": "ccomp35",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "récupération",
+    "texte": "Conseil compétiteur 35 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp36",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 36 : Visualisez vos objectifs chaque matin."
+  },
+  {
+    "id": "ccomp37",
+    "type": "motivation",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 37 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp38",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 38 : Pensez à l’auto-massage après les séances."
+  },
+  {
+    "id": "ccomp39",
+    "type": "discipline",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 39 : Évitez les séances intenses les jours de mauvaise récupération."
+  },
+  {
+    "id": "ccomp40",
+    "type": "récupération",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil compétiteur 40 : Évitez les séances intenses les jours de mauvaise récupération."
   }
-}
+]

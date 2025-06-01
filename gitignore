@@ -1,0 +1,15 @@
+
+# Node modules and logs
+node_modules/
+npm-debug.log
+.DS_Store
+
+# System files
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS metadata
+*.swp

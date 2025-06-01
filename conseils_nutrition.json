@@ -1,58 +1,282 @@
-{
-  "general": {
-    "titre": "Conseils nutritionnels généraux",
-    "conseils": [
-      "Boire au moins 1,5L à 2L d’eau par jour.",
-      "Privilégier les aliments bruts et non transformés.",
-      "Consommer 5 portions de fruits et légumes par jour.",
-      "Limiter les produits sucrés, salés et ultra-transformés.",
-      "Respecter des horaires de repas réguliers."
-    ],
-    "objectif": "général",
-    "type_alimentation": "varié et équilibré",
-    "duree_programme": "7 semaines",
-    "description": "Ce plan nutritionnel est conçu pour l'objectif de général, basé sur une alimentation varié et équilibré. Il est recommandé de le suivre pendant 7 semaines pour des résultats optimaux."
-  },
-  "perte_poids": {
-    "titre": "Conseils pour la perte de poids",
-    "conseils": [
-      "Créer un léger déficit calorique sans privation.",
-      "Augmenter la consommation de fibres et de protéines.",
-      "Éviter les grignotages entre les repas.",
-      "Boire un grand verre d'eau avant chaque repas.",
-      "Manger lentement pour favoriser la satiété."
-    ],
+[
+  {
+    "id": "cnut1",
+    "type": "nutrition",
+    "profil": "adulte",
     "objectif": "perte de poids",
-    "type_alimentation": "pauvre en glucides",
-    "duree_programme": "4 semaines",
-    "description": "Ce plan nutritionnel est conçu pour l'objectif de perte de poids, basé sur une alimentation pauvre en glucides. Il est recommandé de le suivre pendant 4 semaines pour des résultats optimaux."
+    "texte": "Conseil nutrition 1 : Hydratez-vous avec de l’eau tout au long de la journée."
   },
-  "prise_masse": {
-    "titre": "Conseils pour la prise de masse",
-    "conseils": [
-      "Augmenter les apports caloriques avec des aliments de qualité.",
-      "Fractionner les repas (3 repas + 2 collations).",
-      "Consommer des protéines à chaque repas.",
-      "Ne pas négliger les glucides complexes (pâtes, riz, etc.).",
-      "S’assurer d’un bon sommeil pour la récupération."
-    ],
-    "objectif": "prise de masse",
-    "type_alimentation": "riche en protéines",
-    "duree_programme": "7 semaines",
-    "description": "Ce plan nutritionnel est conçu pour l'objectif de prise de masse, basé sur une alimentation riche en protéines. Il est recommandé de le suivre pendant 7 semaines pour des résultats optimaux."
+  {
+    "id": "cnut2",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 2 : Évitez les sucres rapides avant un effort."
   },
-  "sport_sante": {
-    "titre": "Conseils pour le bien-être et la tonification",
-    "conseils": [
-      "Varier les sources de protéines : animales et végétales.",
-      "Manger à sa faim sans excès.",
-      "Limiter la consommation d’alcool.",
-      "S’hydrater tout au long de la journée.",
-      "Préparer ses repas pour garder le contrôle."
-    ],
-    "objectif": "entretien / tonification",
-    "type_alimentation": "équilibré",
-    "duree_programme": "6 semaines",
-    "description": "Ce plan nutritionnel est conçu pour l'objectif de entretien / tonification, basé sur une alimentation équilibré. Il est recommandé de le suivre pendant 6 semaines pour des résultats optimaux."
+  {
+    "id": "cnut3",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 3 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut4",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "bien-être",
+    "texte": "Conseil nutrition 4 : Évitez les sucres rapides avant un effort."
+  },
+  {
+    "id": "cnut5",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 5 : Privilégiez les légumes de saison."
+  },
+  {
+    "id": "cnut6",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 6 : Consommez des protéines après l’effort."
+  },
+  {
+    "id": "cnut7",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 7 : Privilégiez les légumes de saison."
+  },
+  {
+    "id": "cnut8",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 8 : Fractionnez vos repas en 4 prises."
+  },
+  {
+    "id": "cnut9",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 9 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut10",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 10 : Consommez des protéines après l’effort."
+  },
+  {
+    "id": "cnut11",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 11 : Privilégiez les légumes de saison."
+  },
+  {
+    "id": "cnut12",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 12 : Fractionnez vos repas en 4 prises."
+  },
+  {
+    "id": "cnut13",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "bien-être",
+    "texte": "Conseil nutrition 13 : Fractionnez vos repas en 4 prises."
+  },
+  {
+    "id": "cnut14",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 14 : Fractionnez vos repas en 4 prises."
+  },
+  {
+    "id": "cnut15",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "bien-être",
+    "texte": "Conseil nutrition 15 : Fractionnez vos repas en 4 prises."
+  },
+  {
+    "id": "cnut16",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 16 : Fractionnez vos repas en 4 prises."
+  },
+  {
+    "id": "cnut17",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 17 : Fractionnez vos repas en 4 prises."
+  },
+  {
+    "id": "cnut18",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 18 : Évitez les sucres rapides avant un effort."
+  },
+  {
+    "id": "cnut19",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 19 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut20",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 20 : Évitez les sucres rapides avant un effort."
+  },
+  {
+    "id": "cnut21",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 21 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut22",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 22 : Consommez des protéines après l’effort."
+  },
+  {
+    "id": "cnut23",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "bien-être",
+    "texte": "Conseil nutrition 23 : Consommez des protéines après l’effort."
+  },
+  {
+    "id": "cnut24",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "bien-être",
+    "texte": "Conseil nutrition 24 : Consommez des protéines après l’effort."
+  },
+  {
+    "id": "cnut25",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 25 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut26",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "bien-être",
+    "texte": "Conseil nutrition 26 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut27",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 27 : Évitez les sucres rapides avant un effort."
+  },
+  {
+    "id": "cnut28",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 28 : Privilégiez les légumes de saison."
+  },
+  {
+    "id": "cnut29",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 29 : Consommez des protéines après l’effort."
+  },
+  {
+    "id": "cnut30",
+    "type": "nutrition",
+    "profil": "adulte",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 30 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut31",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 31 : Consommez des protéines après l’effort."
+  },
+  {
+    "id": "cnut32",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 32 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut33",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 33 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut34",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "perte de poids",
+    "texte": "Conseil nutrition 34 : Fractionnez vos repas en 4 prises."
+  },
+  {
+    "id": "cnut35",
+    "type": "nutrition",
+    "profil": "compétiteur",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 35 : Privilégiez les légumes de saison."
+  },
+  {
+    "id": "cnut36",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 36 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut37",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "performance",
+    "texte": "Conseil nutrition 37 : Hydratez-vous avec de l’eau tout au long de la journée."
+  },
+  {
+    "id": "cnut38",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "bien-être",
+    "texte": "Conseil nutrition 38 : Privilégiez les légumes de saison."
+  },
+  {
+    "id": "cnut39",
+    "type": "nutrition",
+    "profil": "enfant",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 39 : Évitez les sucres rapides avant un effort."
+  },
+  {
+    "id": "cnut40",
+    "type": "nutrition",
+    "profil": "senior",
+    "objectif": "forme",
+    "texte": "Conseil nutrition 40 : Évitez les sucres rapides avant un effort."
   }
-}
+]
